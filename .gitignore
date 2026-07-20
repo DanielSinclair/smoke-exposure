@@ -1,0 +1,36 @@
+.DS_Store
+*.pyc
+*.tsbuildinfo
+__pycache__/
+.pytest_cache/
+.venv/
+
+# Provider-owned download and extraction caches can be hundreds of MB.
+# URLs and checksums are tracked in sources/manifest.json and provider receipts.
+/sources/stanford-echo/v2-beta/downloads/
+/sources/odell-ford/*/downloads/
+/sources/odell-ford/*/working/
+/sources/epa-aqs/*/downloads/
+/sources/noaa-hms/*/downloads/
+/sources/epa-airnow/2026/daily/
+/sources/nrcan-nfdb/2026-06-08/NFDB_point_large_fires_txt.zip
+/sources/nrcan-nfdb/2026-06-08/NFDB_point_txt.zip
+/sources/usfs-fpa-fod/2022/RDS-2013-0009.6_Data_Format4_SQLITE.zip
+/sources/nifc-inform/*/wildfire_records_*.ndjson.gz
+/sources/noaa-storm-events/1950-2005/downloads/
+
+# Website dependencies and generated output.
+/site/node_modules/
+/site/.wrangler/
+/site/dist/
+/site/pages-dist/
+/site/.vinext/
+/site/.vite/
+/site/public/data/
+
+# Local environment and editor state.
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/

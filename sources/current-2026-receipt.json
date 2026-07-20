@@ -1,0 +1,316 @@
+{
+  "retrieved_at": "2026-07-20T03:47:39.771001+00:00",
+  "publication_cutoff": "2026-07-18",
+  "airnow_complete_day_cutoff": "2026-07-18",
+  "coverage_note": "NIFC and NRCan CWFIF are provisional YTD snapshots. AirNow PM2.5-24hr files supplement lagged AQS after 2026-05-31 and remain preliminary.",
+  "files": [
+    {
+      "url": "https://www.nifc.gov/sites/default/files/NICC/1-Incident%20Information/IMSR/2026/July/IMSR_CY26_07182026_0.pdf",
+      "local_path": "sources/nifc/2026/incident_management_situation_report_2026-07-18.pdf",
+      "bytes": 297316,
+      "sha256": "0600e5efa035b0b067c725a29971781704a53502d4e9388193b4af847e2cfae3"
+    },
+    {
+      "url": "https://api.cwfif.nrcan.gc.ca/reported-fire-stats/ytd/by-response-type?date=2026-07-18",
+      "local_path": "sources/nrcan-cwfif/2026/reported_fire_stats_2026-07-18.json",
+      "bytes": 306,
+      "sha256": "16efa4614e691dccc1142f52f5050d9375f5f620d8da995cd065f8770817e35e"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/docs/DailyDataFactSheet.pdf",
+      "local_path": "sources/epa-airnow/docs/DailyDataFactSheet.pdf",
+      "bytes": 169811,
+      "sha256": "129aed1936bc34528d3631ef0533769b70a576c3143d072a0de51bf722f1a491"
+    }
+  ],
+  "airnow_daily_files": [
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260601/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-01.dat",
+      "bytes": 660346,
+      "sha256": "45af537085d4da7b64ea6ba800b1101572b875b2e47faeb24cf45ece7fc5de19"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260602/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-02.dat",
+      "bytes": 659801,
+      "sha256": "2bb31216190e6c024669de1b9d99122795c20a4cf6b556095e72c2e10ed88f8d"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260603/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-03.dat",
+      "bytes": 659226,
+      "sha256": "f1184216da27c7334ee32e502728483ae7db3afa7852801f437c588ec399d037"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260604/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-04.dat",
+      "bytes": 657531,
+      "sha256": "532172187876f368ec6e70462bc6e9bca5c6413bb69bd037c9d588c4b1a9bd5d"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260605/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-05.dat",
+      "bytes": 658441,
+      "sha256": "f233efbd4ab5eb3b2b2cdecc6c4cff2d5cc0f79d806dbf3934e14324cdd34e3a"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260606/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-06.dat",
+      "bytes": 654692,
+      "sha256": "9f02c281fd625243bb2493b5089913017927bceb1957ca92544d57f45905556d"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260607/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-07.dat",
+      "bytes": 653629,
+      "sha256": "5bb028b10fdfcc3f4cabb2c1194e61daa6b916371c135885237068c7643de0b6"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260608/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-08.dat",
+      "bytes": 653906,
+      "sha256": "c14aafa6f95106261b6e8995142383855f0209a1176b3e00c561534c67f1a108"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260609/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-09.dat",
+      "bytes": 654274,
+      "sha256": "cb083c6651e5931f33b7307746a8978fed3c502a3fb562a48bd8a01432e72a37"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260610/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-10.dat",
+      "bytes": 655815,
+      "sha256": "ca94097b9ad81aadcc12d4e897cd4d50c87516d924b16eaac4f5317dbe1c051a"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260611/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-11.dat",
+      "bytes": 655255,
+      "sha256": "d6d2aae372029e69b370471bc61c3d738ec424888feca46bf3e51eeaa4c13f62"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260612/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-12.dat",
+      "bytes": 656445,
+      "sha256": "2f39636a9fd28aa698c3002dc47962d7b8e219a36a2e4e99fc0000f6f7f9d6a4"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260613/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-13.dat",
+      "bytes": 651156,
+      "sha256": "f921dc4da43a8493be6432f28eb0f59ac36b42da2fab85fef5dc143a3d474c42"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260614/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-14.dat",
+      "bytes": 655848,
+      "sha256": "fac727449e544acc4ab196379cc5b3e7ff5e21c1e53fccdf7124e75c9b95525c"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260615/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-15.dat",
+      "bytes": 652919,
+      "sha256": "8b98988b0d8532aa9dcbdeab98aff53735d8bee863deff33a676a0babf8d8314"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260616/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-16.dat",
+      "bytes": 657452,
+      "sha256": "b764895120432df6e3a4d939dd3e1a64c67148343b0c42992f380e236831684b"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260617/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-17.dat",
+      "bytes": 657595,
+      "sha256": "7f9996747103072f18abc8a270a5af5634f4f7e2edb561673613f63bbc4af758"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260618/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-18.dat",
+      "bytes": 659531,
+      "sha256": "96a044e29533e50087b49b1fbebd297f0f48a1573dfbfd7895b24f8a66d1a039"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260619/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-19.dat",
+      "bytes": 659036,
+      "sha256": "580cb2e5ae7e1b62e50e41afdb7fb01f4e35fc33f4d9861aec8fd0d9c0db2199"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260620/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-20.dat",
+      "bytes": 654182,
+      "sha256": "503c3b66f92f75592c7ae6e186bdda2c87bf915298ee77dca370ce212fd50a8d"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260621/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-21.dat",
+      "bytes": 650197,
+      "sha256": "fdabb63824c07d6aed6ab00b1f452d440396c70ccfb10f397eb50836f2849c63"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260622/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-22.dat",
+      "bytes": 652159,
+      "sha256": "a4d5dc2f6e9f24b85234ccd3b9e9723fe3c39f2671a75a7ddb6a97fc7f83c7d2"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260623/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-23.dat",
+      "bytes": 658988,
+      "sha256": "54882dcc02fb8293f2dee7cd8cd9e4611a37b64e7aa64c4bfa5fc027322bbfe5"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260624/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-24.dat",
+      "bytes": 660314,
+      "sha256": "02641b914f0715e74cefc824d24c480a5fba4bc7ead34df233a56c0f6ed93c98"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260625/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-25.dat",
+      "bytes": 660793,
+      "sha256": "70cd4a45b0f589e686f301534b9f13e3c86fd9e4b5e1a314989c924cc020b8fd"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260626/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-26.dat",
+      "bytes": 657534,
+      "sha256": "e2fd658b4fb8287c30dc829b790f2d069f3e467c88cb295c5723d9bf0695ce09"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260627/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-27.dat",
+      "bytes": 655322,
+      "sha256": "17c31b7138fc289ae2d881edb91a4b8c7cca03ceca34fd65ea4247385322fb00"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260628/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-28.dat",
+      "bytes": 658924,
+      "sha256": "506290d88ab31c2b531a252e9b6e7c741dad695de3ba114dd740f870ce576738"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260629/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-29.dat",
+      "bytes": 663257,
+      "sha256": "ad30c78c0a95aca304742f78a2ab9788079183f551261ffd494e4bed49eccb51"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260630/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-06-30.dat",
+      "bytes": 666966,
+      "sha256": "84af0ff1f5c7d77f80990de8302e6b38adb8bdc4b2c5e825a40d537b049e9a87"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260701/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-07-01.dat",
+      "bytes": 668195,
+      "sha256": "2dedb40fcdd5a2d91a1e222f4e266b25db6cbbc1e42a620bfbc6a5db041a5250"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260702/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-07-02.dat",
+      "bytes": 671036,
+      "sha256": "ca804659ecf26ef0858fd60db1c342049e48afa9f6bfa463cb7f02979dea80d4"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260703/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-07-03.dat",
+      "bytes": 665292,
+      "sha256": "064c26bc1cdc5b0de2c593faacd3d140d6e1550bdd60f88877aacfc8cfe1693f"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260704/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-07-04.dat",
+      "bytes": 660462,
+      "sha256": "0a2d3b8fce808d91eed578edb68326173f30f9e5b6caaf37733b8d303bfe81c0"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260705/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-07-05.dat",
+      "bytes": 659433,
+      "sha256": "07babcde757535170d99b97bff4be5628652e1095f5b31a60c143210d2d8fca4"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260706/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-07-06.dat",
+      "bytes": 662887,
+      "sha256": "48aba0cf3a56030342e0a391b57c2e5d385215377a62fa208c929b21b2caa090"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260707/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-07-07.dat",
+      "bytes": 666559,
+      "sha256": "478f958ff5e2d45e376a48fd63930ea3a1fef8787a663202303f426aa76fb28e"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260708/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-07-08.dat",
+      "bytes": 667009,
+      "sha256": "55e1970ed48792abff168f9abe3f855e33c416ad7cad201d2ec41479b90d2de7"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260709/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-07-09.dat",
+      "bytes": 668633,
+      "sha256": "6921faa65eeb088393d82b361cd2c3a811ded4aff234e06ce2262c33f18313c8"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260710/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-07-10.dat",
+      "bytes": 669589,
+      "sha256": "67623083b00ee563c02e1aedcc2d649a7813afc59aa4334af25ae12dda8f44cf"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260711/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-07-11.dat",
+      "bytes": 670858,
+      "sha256": "035da2cba463c880d37a60d06367e9e742beca7dec23acda795ba692ae45c1a6"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260712/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-07-12.dat",
+      "bytes": 667144,
+      "sha256": "ba374c2213310615edcdd4262a3de45c17ec96d66717d86c90ef2bff72bbfe61"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260713/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-07-13.dat",
+      "bytes": 669317,
+      "sha256": "afd12c52fd1b81f75c655f47ba483ba2e8ce50f700843a89f25681543a173452"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260714/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-07-14.dat",
+      "bytes": 666582,
+      "sha256": "d7be866d0970f0f0064c548141215f61b017be3c51a3f89c3fd16a966c9f07f2"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260715/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-07-15.dat",
+      "bytes": 668685,
+      "sha256": "c0f07a1d0873472477dc62d561c4db290c9e55dddbeb03784458cb7bcfd1ca4d"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260716/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-07-16.dat",
+      "bytes": 665717,
+      "sha256": "11184e2d9124692d4cb57b2c5325f303636df736d457463dcd2e0c4610cb0513"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260717/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-07-17.dat",
+      "bytes": 669501,
+      "sha256": "e51604e210f6814a3943acf4d5a99572602322e0774af7eed9d500c683bce972"
+    },
+    {
+      "url": "https://files.airnowtech.org/airnow/2026/20260718/daily_data_v2.dat",
+      "local_path": "sources/epa-airnow/2026/daily/2026-07-18.dat",
+      "bytes": 669792,
+      "sha256": "25a97490f35280976035b998b9b2c7689aa66394bf8b400424e999014b3c2bb6"
+    }
+  ]
+}

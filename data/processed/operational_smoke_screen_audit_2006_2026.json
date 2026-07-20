@@ -1,0 +1,491 @@
+{
+  "model_id": "AQS_HMS_MONITOR_COINCIDENCE_V3",
+  "years": [
+    2006,
+    2026
+  ],
+  "threshold_pm25_ug_m3": 35.5,
+  "minimum_observation_percent": 75.0,
+  "aqs_event_policy": {
+    "included_daily_summary_event_types": [
+      "events included",
+      "included",
+      "no events",
+      "none"
+    ],
+    "excluded_daily_summary_variants_are_ignored": true,
+    "specific_fire_qualifier_codes_available_in_bulk_daily_files": false,
+    "interpretation": "Included summaries preserve event-affected measurements, but the bulk daily files do not identify RF Canadian fire, RT U.S. wildfire, or RM prescribed fire codes. HMS overlap supplies smoke presence, not fire origin."
+  },
+  "balanced_panel": {
+    "definition_years": [
+      2006,
+      2025
+    ],
+    "minimum_valid_day_share_each_year": 0.75,
+    "site_count": 117,
+    "site_ids": [
+      "010732003",
+      "051190007",
+      "060074001",
+      "060290014",
+      "060371103",
+      "060590007",
+      "060610006",
+      "060658001",
+      "060670010",
+      "061010003",
+      "080310002",
+      "090031003",
+      "090090027",
+      "100032004",
+      "110010043",
+      "120310098",
+      "120730012",
+      "120861016",
+      "121030018",
+      "130511002",
+      "130590002",
+      "130890002",
+      "131210055",
+      "131350002",
+      "132450091",
+      "160590004",
+      "180890022",
+      "180970078",
+      "191530030",
+      "191630015",
+      "220190008",
+      "220330009",
+      "220511001",
+      "221210001",
+      "250051004",
+      "250154002",
+      "250250042",
+      "250270023",
+      "261630001",
+      "270031002",
+      "270052013",
+      "270353204",
+      "270370470",
+      "270750005",
+      "270834210",
+      "271095008",
+      "271713201",
+      "290470005",
+      "290950034",
+      "291893001",
+      "295100007",
+      "295100085",
+      "300810007",
+      "310550019",
+      "320030561",
+      "340171003",
+      "340390004",
+      "340392003",
+      "350550005",
+      "360810124",
+      "370210034",
+      "370350004",
+      "370510009",
+      "370570002",
+      "370670022",
+      "371190041",
+      "371730002",
+      "401431127",
+      "410010004",
+      "410090004",
+      "410170120",
+      "410330114",
+      "410350004",
+      "410370001",
+      "410390060",
+      "410391009",
+      "410392013",
+      "410430009",
+      "410470041",
+      "410510080",
+      "410590121",
+      "410630001",
+      "410670004",
+      "410670111",
+      "420030008",
+      "420030064",
+      "420270100",
+      "420410101",
+      "420430401",
+      "420950025",
+      "421255001",
+      "440070022",
+      "480290059",
+      "481351014",
+      "481410044",
+      "482010024",
+      "482011039",
+      "482030002",
+      "482450021",
+      "482570005",
+      "484391006",
+      "490353006",
+      "490494001",
+      "510590030",
+      "530010003",
+      "530050002",
+      "530210002",
+      "530251002",
+      "530310003",
+      "530330017",
+      "530331011",
+      "530370002",
+      "530530029",
+      "530611007",
+      "530670013",
+      "530750006",
+      "530770009"
+    ]
+  },
+  "source_audits": [
+    {
+      "year": 2006,
+      "aqs": {
+        "data_through": "2006-12-31",
+        "raw_rows": 384924,
+        "selected_site_days": 218217,
+        "event_included_rows": 2744,
+        "event_excluded_rows_ignored": 0,
+        "event_excluded_only_site_days": 0,
+        "invalid_or_incomplete_rows_ignored": 3094
+      },
+      "hms_data_through": "2006-12-31",
+      "hms_last_polygon_date": "2006-12-31",
+      "hms_polygon_records": 15443,
+      "airnow_data_through": ""
+    },
+    {
+      "year": 2007,
+      "aqs": {
+        "data_through": "2007-12-31",
+        "raw_rows": 450212,
+        "selected_site_days": 249330,
+        "event_included_rows": 3053,
+        "event_excluded_rows_ignored": 2,
+        "event_excluded_only_site_days": 0,
+        "invalid_or_incomplete_rows_ignored": 3134
+      },
+      "hms_data_through": "2007-12-31",
+      "hms_last_polygon_date": "2007-12-31",
+      "hms_polygon_records": 19872,
+      "airnow_data_through": ""
+    },
+    {
+      "year": 2008,
+      "aqs": {
+        "data_through": "2008-12-31",
+        "raw_rows": 479451,
+        "selected_site_days": 256528,
+        "event_included_rows": 3486,
+        "event_excluded_rows_ignored": 0,
+        "event_excluded_only_site_days": 0,
+        "invalid_or_incomplete_rows_ignored": 3600
+      },
+      "hms_data_through": "2008-12-31",
+      "hms_last_polygon_date": "2008-12-31",
+      "hms_polygon_records": 23277,
+      "airnow_data_through": ""
+    },
+    {
+      "year": 2009,
+      "aqs": {
+        "data_through": "2009-12-31",
+        "raw_rows": 536448,
+        "selected_site_days": 274890,
+        "event_included_rows": 12712,
+        "event_excluded_rows_ignored": 4,
+        "event_excluded_only_site_days": 0,
+        "invalid_or_incomplete_rows_ignored": 3882
+      },
+      "hms_data_through": "2009-12-31",
+      "hms_last_polygon_date": "2009-12-31",
+      "hms_polygon_records": 23473,
+      "airnow_data_through": ""
+    },
+    {
+      "year": 2010,
+      "aqs": {
+        "data_through": "2010-12-31",
+        "raw_rows": 588346,
+        "selected_site_days": 289285,
+        "event_included_rows": 24238,
+        "event_excluded_rows_ignored": 18,
+        "event_excluded_only_site_days": 0,
+        "invalid_or_incomplete_rows_ignored": 5235
+      },
+      "hms_data_through": "2010-12-31",
+      "hms_last_polygon_date": "2010-12-31",
+      "hms_polygon_records": 27230,
+      "airnow_data_through": ""
+    },
+    {
+      "year": 2011,
+      "aqs": {
+        "data_through": "2011-12-31",
+        "raw_rows": 614756,
+        "selected_site_days": 287138,
+        "event_included_rows": 20855,
+        "event_excluded_rows_ignored": 26,
+        "event_excluded_only_site_days": 0,
+        "invalid_or_incomplete_rows_ignored": 6977
+      },
+      "hms_data_through": "2011-12-31",
+      "hms_last_polygon_date": "2011-12-31",
+      "hms_polygon_records": 33720,
+      "airnow_data_through": ""
+    },
+    {
+      "year": 2012,
+      "aqs": {
+        "data_through": "2012-12-31",
+        "raw_rows": 645062,
+        "selected_site_days": 296530,
+        "event_included_rows": 26872,
+        "event_excluded_rows_ignored": 36,
+        "event_excluded_only_site_days": 0,
+        "invalid_or_incomplete_rows_ignored": 7250
+      },
+      "hms_data_through": "2012-12-31",
+      "hms_last_polygon_date": "2012-12-31",
+      "hms_polygon_records": 27966,
+      "airnow_data_through": ""
+    },
+    {
+      "year": 2013,
+      "aqs": {
+        "data_through": "2013-12-31",
+        "raw_rows": 671095,
+        "selected_site_days": 303420,
+        "event_included_rows": 27086,
+        "event_excluded_rows_ignored": 85,
+        "event_excluded_only_site_days": 0,
+        "invalid_or_incomplete_rows_ignored": 7480
+      },
+      "hms_data_through": "2013-12-31",
+      "hms_last_polygon_date": "2013-12-31",
+      "hms_polygon_records": 23151,
+      "airnow_data_through": ""
+    },
+    {
+      "year": 2014,
+      "aqs": {
+        "data_through": "2014-12-31",
+        "raw_rows": 684238,
+        "selected_site_days": 309013,
+        "event_included_rows": 24850,
+        "event_excluded_rows_ignored": 140,
+        "event_excluded_only_site_days": 0,
+        "invalid_or_incomplete_rows_ignored": 8737
+      },
+      "hms_data_through": "2014-12-31",
+      "hms_last_polygon_date": "2014-12-30",
+      "hms_polygon_records": 18562,
+      "airnow_data_through": ""
+    },
+    {
+      "year": 2015,
+      "aqs": {
+        "data_through": "2015-12-31",
+        "raw_rows": 694821,
+        "selected_site_days": 317878,
+        "event_included_rows": 18271,
+        "event_excluded_rows_ignored": 174,
+        "event_excluded_only_site_days": 4,
+        "invalid_or_incomplete_rows_ignored": 10066
+      },
+      "hms_data_through": "2015-12-31",
+      "hms_last_polygon_date": "2015-12-30",
+      "hms_polygon_records": 16349,
+      "airnow_data_through": ""
+    },
+    {
+      "year": 2016,
+      "aqs": {
+        "data_through": "2016-12-31",
+        "raw_rows": 702845,
+        "selected_site_days": 321679,
+        "event_included_rows": 16306,
+        "event_excluded_rows_ignored": 240,
+        "event_excluded_only_site_days": 0,
+        "invalid_or_incomplete_rows_ignored": 11413
+      },
+      "hms_data_through": "2016-12-31",
+      "hms_last_polygon_date": "2016-12-31",
+      "hms_polygon_records": 21267,
+      "airnow_data_through": ""
+    },
+    {
+      "year": 2017,
+      "aqs": {
+        "data_through": "2017-12-31",
+        "raw_rows": 736745,
+        "selected_site_days": 332484,
+        "event_included_rows": 29403,
+        "event_excluded_rows_ignored": 151,
+        "event_excluded_only_site_days": 2,
+        "invalid_or_incomplete_rows_ignored": 10779
+      },
+      "hms_data_through": "2017-12-31",
+      "hms_last_polygon_date": "2017-12-31",
+      "hms_polygon_records": 26187,
+      "airnow_data_through": ""
+    },
+    {
+      "year": 2018,
+      "aqs": {
+        "data_through": "2018-12-31",
+        "raw_rows": 808431,
+        "selected_site_days": 342644,
+        "event_included_rows": 83430,
+        "event_excluded_rows_ignored": 89,
+        "event_excluded_only_site_days": 1,
+        "invalid_or_incomplete_rows_ignored": 10376
+      },
+      "hms_data_through": "2018-12-31",
+      "hms_last_polygon_date": "2018-12-31",
+      "hms_polygon_records": 41294,
+      "airnow_data_through": ""
+    },
+    {
+      "year": 2019,
+      "aqs": {
+        "data_through": "2019-12-31",
+        "raw_rows": 891974,
+        "selected_site_days": 350749,
+        "event_included_rows": 131249,
+        "event_excluded_rows_ignored": 52,
+        "event_excluded_only_site_days": 0,
+        "invalid_or_incomplete_rows_ignored": 10261
+      },
+      "hms_data_through": "2019-12-31",
+      "hms_last_polygon_date": "2019-12-31",
+      "hms_polygon_records": 42951,
+      "airnow_data_through": ""
+    },
+    {
+      "year": 2020,
+      "aqs": {
+        "data_through": "2020-12-31",
+        "raw_rows": 931770,
+        "selected_site_days": 353934,
+        "event_included_rows": 165072,
+        "event_excluded_rows_ignored": 64,
+        "event_excluded_only_site_days": 0,
+        "invalid_or_incomplete_rows_ignored": 9678
+      },
+      "hms_data_through": "2020-12-31",
+      "hms_last_polygon_date": "2020-12-31",
+      "hms_polygon_records": 45287,
+      "airnow_data_through": ""
+    },
+    {
+      "year": 2021,
+      "aqs": {
+        "data_through": "2021-12-31",
+        "raw_rows": 1011024,
+        "selected_site_days": 365063,
+        "event_included_rows": 216715,
+        "event_excluded_rows_ignored": 72,
+        "event_excluded_only_site_days": 0,
+        "invalid_or_incomplete_rows_ignored": 9379
+      },
+      "hms_data_through": "2021-12-31",
+      "hms_last_polygon_date": "2021-12-31",
+      "hms_polygon_records": 27445,
+      "airnow_data_through": ""
+    },
+    {
+      "year": 2022,
+      "aqs": {
+        "data_through": "2022-12-31",
+        "raw_rows": 1063468,
+        "selected_site_days": 368635,
+        "event_included_rows": 260278,
+        "event_excluded_rows_ignored": 46,
+        "event_excluded_only_site_days": 0,
+        "invalid_or_incomplete_rows_ignored": 10060
+      },
+      "hms_data_through": "2022-12-31",
+      "hms_last_polygon_date": "2022-12-31",
+      "hms_polygon_records": 21768,
+      "airnow_data_through": ""
+    },
+    {
+      "year": 2023,
+      "aqs": {
+        "data_through": "2023-12-31",
+        "raw_rows": 1024130,
+        "selected_site_days": 374664,
+        "event_included_rows": 203406,
+        "event_excluded_rows_ignored": 289,
+        "event_excluded_only_site_days": 1,
+        "invalid_or_incomplete_rows_ignored": 9587
+      },
+      "hms_data_through": "2023-12-31",
+      "hms_last_polygon_date": "2023-12-31",
+      "hms_polygon_records": 20191,
+      "airnow_data_through": ""
+    },
+    {
+      "year": 2024,
+      "aqs": {
+        "data_through": "2024-12-31",
+        "raw_rows": 905268,
+        "selected_site_days": 390667,
+        "event_included_rows": 39039,
+        "event_excluded_rows_ignored": 32,
+        "event_excluded_only_site_days": 0,
+        "invalid_or_incomplete_rows_ignored": 8544
+      },
+      "hms_data_through": "2024-12-31",
+      "hms_last_polygon_date": "2024-12-31",
+      "hms_polygon_records": 12527,
+      "airnow_data_through": ""
+    },
+    {
+      "year": 2025,
+      "aqs": {
+        "data_through": "2025-12-31",
+        "raw_rows": 908061,
+        "selected_site_days": 390222,
+        "event_included_rows": 33492,
+        "event_excluded_rows_ignored": 210,
+        "event_excluded_only_site_days": 0,
+        "invalid_or_incomplete_rows_ignored": 8081
+      },
+      "hms_data_through": "2025-12-31",
+      "hms_last_polygon_date": "2025-12-31",
+      "hms_polygon_records": 24238,
+      "airnow_data_through": ""
+    },
+    {
+      "year": 2026,
+      "aqs": {
+        "data_through": "2026-05-31",
+        "raw_rows": 205617,
+        "selected_site_days": 88435,
+        "event_included_rows": 6897,
+        "event_excluded_rows_ignored": 2,
+        "event_excluded_only_site_days": 0,
+        "invalid_or_incomplete_rows_ignored": 2324
+      },
+      "hms_data_through": "2026-07-18",
+      "hms_last_polygon_date": "2026-07-18",
+      "hms_polygon_records": 27305,
+      "airnow_data_through": "2026-07-18"
+    }
+  ],
+  "first_pass_reconciles": true,
+  "comparability": {
+    "stanford": false,
+    "reason": "This screen uses observed total PM2.5 at monitored points plus HMS presence; Stanford estimates wildfire-attributable PM2.5 for all counties.",
+    "same_cutoff_2026_monitor_source_break": "The 2026 fixed window supplements lagged AQS with preliminary AirNow after 2026-06-01; older years use final AQS daily summaries."
+  }
+}

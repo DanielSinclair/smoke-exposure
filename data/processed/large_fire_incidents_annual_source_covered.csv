@@ -1,0 +1,123 @@
+year,geography,incident_records,reported_name_records,agency_id_only_records,acres,source_dataset,coverage_scope,source_year_status,source_coverage_complete,comparable_to_other_geography
+1946,Canada,7,0,7,414259,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1947,Canada,5,0,5,6978,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1948,Canada,7,0,7,78728,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1950,Canada,61,0,61,1502220,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1951,Canada,119,0,119,1236552,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1952,Canada,57,0,57,386815,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1953,Canada,34,0,34,1453505,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1954,Canada,11,0,11,16415,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1955,Canada,44,0,44,284976,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1956,Canada,73,0,73,541441,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1957,Canada,50,0,50,222281,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1958,Canada,215,0,215,4270580,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1959,Canada,161,0,161,687255,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1960,Canada,256,0,256,1445431,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1961,Canada,463,44,419,6815504,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1962,Canada,116,1,115,790965,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1963,Canada,122,6,116,408592,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1964,Canada,212,10,202,2800849,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1965,Canada,94,2,92,490203,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1966,Canada,114,14,100,1196556,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1967,Canada,297,13,284,1403717,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1968,Canada,181,48,133,3087356,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1969,Canada,233,7,226,3460695,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1970,Canada,256,36,220,3531725,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1971,Canada,317,24,293,4734780,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1972,Canada,239,17,222,1807322,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1973,Canada,235,3,232,2500103,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1974,Canada,178,6,172,2203764,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1975,Canada,187,2,185,2398889,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1976,Canada,404,6,398,5297495,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1977,Canada,252,10,242,3380792,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1978,Canada,82,6,76,645767,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1979,Canada,267,17,250,6170804,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1980,Canada,444,41,403,11814748,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1981,Canada,418,166,252,15446391,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1982,Canada,266,88,178,4266705,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1983,Canada,319,30,289,4905543,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1984,Canada,217,68,149,1804716,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1984,United States,142,133,9,984115,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+1985,Canada,205,28,177,2027228,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1985,United States,256,210,46,2127242,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+1986,Canada,173,13,160,2430758,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1986,United States,234,202,32,1364572,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+1987,Canada,285,59,226,2422638,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1987,United States,378,306,72,2017956,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+1988,Canada,292,32,260,3246947,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1988,United States,376,304,72,4268877,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+1989,Canada,770,126,644,18648148,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1989,United States,261,185,76,1416876,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+1990,Canada,246,58,188,2283246,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1990,United States,219,180,39,2474978,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+1991,Canada,311,43,268,3732258,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1991,United States,277,208,69,1595015,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+1992,Canada,149,21,128,2045344,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1992,United States,207,167,40,1247421,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+1993,Canada,213,64,149,4763157,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1993,United States,192,149,43,1265738,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+1994,Canada,408,69,339,15248414,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1994,United States,464,380,84,2408975,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+1995,Canada,471,99,372,18399296,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1995,United States,253,225,28,1145218,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+1996,Canada,467,10,457,4670198,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1996,United States,500,409,91,4583581,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+1997,Canada,131,7,124,1525760,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1997,United States,152,115,37,642274,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+1998,Canada,530,102,428,11816211,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1998,United States,298,204,94,1479720,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+1999,Canada,303,39,264,4311812,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+1999,United States,515,429,86,4931180,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2000,Canada,182,35,147,1520667,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2000,United States,661,517,144,6002688,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2001,Canada,175,55,120,1552031,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2001,United States,437,350,87,2443075,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2002,Canada,322,87,235,6753050,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2002,United States,418,363,55,5298508,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2003,Canada,414,58,356,5278070,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2003,United States,361,339,22,3476560,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2004,Canada,432,83,349,7810584,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2004,United States,284,245,39,7619875,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2005,Canada,303,66,237,4112342,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2005,United States,601,502,99,8367666,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2006,Canada,416,117,299,5102881,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2006,United States,799,728,71,7539942,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2007,Canada,256,40,216,4357953,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2007,United States,543,498,45,7682337,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2008,Canada,197,75,122,4041506,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2008,United States,457,440,17,3684688,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2009,Canada,229,41,188,1807590,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2009,United States,387,362,25,3324123,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2010,Canada,386,112,274,7781585,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2010,United States,294,284,10,1893000,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2011,Canada,233,38,195,5886746,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2011,United States,824,773,51,7763249,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2012,Canada,420,67,353,4401072,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2012,United States,569,565,4,8391919,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2013,Canada,374,53,321,10483377,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2013,United States,303,299,4,3809080,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2014,Canada,341,69,272,11172298,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2014,United States,267,262,5,2653338,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2015,Canada,546,164,382,9571817,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2015,United States,536,536,0,9061371,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2016,Canada,199,35,164,3198422,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2016,United States,518,517,1,4246348,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2017,Canada,468,68,400,8789899,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2017,United States,644,635,9,8900137,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2018,Canada,429,53,376,5654328,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2018,United States,525,524,1,7404648,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2019,Canada,192,32,160,4362485,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2019,United States,380,366,14,4186941,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2020,Canada,80,31,49,509418,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2020,United States,467,467,0,9330236,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2021,Canada,596,338,258,9979867,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2021,United States,422,422,0,7069633,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2022,Canada,425,66,359,3830840,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2022,United States,530,530,0,6856430,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2023,Canada,965,260,705,43415076,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2023,United States,325,325,0,1944202,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2024,Canada,535,122,413,13194648,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2024,United States,331,331,0,4678193,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",complete_release_year,true,false
+2025,Canada,532,90,442,20770272,Canadian National Fire Database large-fire points,CNFDB reported large-fire point archive: greater than 200 hectares,coverage_varies_by_agency_and_year,false,false
+2025,United States,21,21,0,872388,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",provisional_incomplete,false,false
+2026,United States,5,5,0,844382,MTBS Fire Occurrence Points,"MTBS mapped wildfire: at least 500 acres in the East or 1,000 acres in the West",provisional_incomplete,false,false

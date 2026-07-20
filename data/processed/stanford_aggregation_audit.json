@@ -1,0 +1,12 @@
+{
+  "source_rows_parsed": 3317195,
+  "source_positive_smoke_rows": 3302399,
+  "source_date_min": "2006-01-01",
+  "source_date_max": "2023-12-31",
+  "population_counties": 3108,
+  "population_total_conus_2020_estimate": 327345959,
+  "unmatched_source_geoids": [],
+  "primary_pm25_threshold_ug_m3": 35.5,
+  "primary_population_threshold": 10000000,
+  "population_basis": "Fixed July 1, 2020 Census Vintage 2020 county estimate"
+}

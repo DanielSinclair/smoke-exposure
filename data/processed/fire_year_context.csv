@@ -1,0 +1,358 @@
+year,geography,rank,fire_name,label_kind,normalized_record_id,source_record_id,region,latitude,longitude,acres,source_dataset,provisional,causal_smoke_attribution
+1950,Canada,1,1950TE006,agency_incident_id,nrcan-nfdb:16347,YT-1950-1950TE006,Yukon,60.01028,-131.91611,353947,Canadian National Fire Database large-fire points,false,false
+1950,Canada,2,1950-G00113,agency_incident_id,nrcan-nfdb:3686,BC-1950-1950-G00113,British Columbia,56.789,-122.07,246530,Canadian National Fire Database large-fire points,false,false
+1950,Canada,3,1950-G00019,agency_incident_id,nrcan-nfdb:3690,BC-1950-1950-G00019,British Columbia,56.568,-120.927,190080,Canadian National Fire Database large-fire points,false,false
+1951,Canada,1,1951RR071,agency_incident_id,nrcan-nfdb:16026,YT-1951-1951RR071,Yukon,62.67197,-134.08967,266307,Canadian National Fire Database large-fire points,false,false
+1951,Canada,2,1951MA050,agency_incident_id,nrcan-nfdb:16003,YT-1951-1951MA050,Yukon,63.44,-136.8925,99282,Canadian National Fire Database large-fire points,false,false
+1951,Canada,3,1951-R00037,agency_incident_id,nrcan-nfdb:6305,BC-1951-1951-R00037,British Columbia,53.963,-131.132,99200,Canadian National Fire Database large-fire points,false,false
+1952,Canada,1,52WB001,agency_incident_id,nrcan-nfdb:18601,PC-WB-1952-52WB001,Parks Canada,58.5667,-112.7,160003,Canadian National Fire Database large-fire points,false,false
+1952,Canada,2,1952MA010,agency_incident_id,nrcan-nfdb:16004,YT-1952-1952MA010,Yukon,63.50333,-135.15139,61156,Canadian National Fire Database large-fire points,false,false
+1952,Canada,3,1952-R00040,agency_incident_id,nrcan-nfdb:3685,BC-1952-1952-R00040,British Columbia,57.905,-131.066,24120,Canadian National Fire Database large-fire points,false,false
+1953,Canada,1,53WB017,agency_incident_id,nrcan-nfdb:18602,PC-WB-1953-53WB017,Parks Canada,58.8,-113.05,331507,Canadian National Fire Database large-fire points,false,false
+1953,Canada,2,1953RR022,agency_incident_id,nrcan-nfdb:15974,YT-1953-1953RR022,Yukon,62.78333,-131.91667,265786,Canadian National Fire Database large-fire points,false,false
+1953,Canada,3,53WB034,agency_incident_id,nrcan-nfdb:18634,PC-WB-1953-53WB034,Parks Canada,58.3333,-112.75,260004,Canadian National Fire Database large-fire points,false,false
+1954,Canada,1,1954CA040,agency_incident_id,nrcan-nfdb:16157,YT-1954-1954CA040,Yukon,62.49528,-136.6025,3423,Canadian National Fire Database large-fire points,false,false
+1954,Canada,2,1954-G00056,agency_incident_id,nrcan-nfdb:3858,BC-1954-1954-G00056,British Columbia,59.789,-123.808,2450,Canadian National Fire Database large-fire points,false,false
+1954,Canada,3,1954CA020,agency_incident_id,nrcan-nfdb:16162,YT-1954-1954CA020,Yukon,62.81778,-137.05722,1920,Canadian National Fire Database large-fire points,false,false
+1955,Canada,1,55WB098,agency_incident_id,nrcan-nfdb:18320,PC-WB-1955-55WB098,Parks Canada,59.7667,-115.0667,60002,Canadian National Fire Database large-fire points,false,false
+1955,Canada,2,1955MA034,agency_incident_id,nrcan-nfdb:16008,YT-1955-1955MA034,Yukon,63.46694,-136.28194,50123,Canadian National Fire Database large-fire points,false,false
+1955,Canada,3,1955DA060,agency_incident_id,nrcan-nfdb:15943,YT-1955-1955DA060,Yukon,63.96823,-135.93114,28141,Canadian National Fire Database large-fire points,false,false
+1956,Canada,1,1956-G00126,agency_incident_id,nrcan-nfdb:4026,BC-1956-1956-G00126,British Columbia,58.155,-123.562,150000,Canadian National Fire Database large-fire points,false,false
+1956,Canada,2,1956-G00165,agency_incident_id,nrcan-nfdb:4033,BC-1956-1956-G00165,British Columbia,58.289,-121.868,67072,Canadian National Fire Database large-fire points,false,false
+1956,Canada,3,1956-G00125,agency_incident_id,nrcan-nfdb:4030,BC-1956-1956-G00125,British Columbia,58.742,-122.423,65000,Canadian National Fire Database large-fire points,false,false
+1957,Canada,1,1957CA080,agency_incident_id,nrcan-nfdb:16035,YT-1957-1957CA080,Yukon,62.74271,-134.38689,43118,Canadian National Fire Database large-fire points,false,false
+1957,Canada,2,1957XY015,agency_incident_id,nrcan-nfdb:16031,YT-1957-1957XY015,Yukon,62.5,-133.91972,25228,Canadian National Fire Database large-fire points,false,false
+1957,Canada,3,1957DA039,agency_incident_id,nrcan-nfdb:15915,YT-1957-1957DA039,Yukon,64.21676,-140.59044,24946,Canadian National Fire Database large-fire points,false,false
+1958,Canada,1,1958-G00117,agency_incident_id,nrcan-nfdb:3874,BC-1958-1958-G00117,British Columbia,59.01,-127.365,706561,Canadian National Fire Database large-fire points,false,false
+1958,Canada,2,1958XY008,agency_incident_id,nrcan-nfdb:16166,YT-1958-1958XY008,Yukon,61.47972,-135.72972,331609,Canadian National Fire Database large-fire points,false,false
+1958,Canada,3,1958XY026,agency_incident_id,nrcan-nfdb:16314,YT-1958-1958XY026,Yukon,60.13,-133.75,311582,Canadian National Fire Database large-fire points,false,false
+1959,Canada,1,1959-G00142,agency_incident_id,nrcan-nfdb:4337,BC-1959-1959-G00142,British Columbia,58.934,-122.618,89480,Canadian National Fire Database large-fire points,false,false
+1959,Canada,2,1959MA030,agency_incident_id,nrcan-nfdb:16045,YT-1959-1959MA030,Yukon,63.32372,-134.28011,58037,Canadian National Fire Database large-fire points,false,false
+1959,Canada,3,59FGH4,agency_incident_id,nrcan-nfdb:18070,NT-1959-59FGH4,Northwest Territories,66.2,-129.97,35583,Canadian National Fire Database large-fire points,false,false
+1960,Canada,1,72,agency_incident_id,nrcan-nfdb:9622,SK-1960-072,Saskatchewan,57.48,-107.57,102858,Canadian National Fire Database large-fire points,false,false
+1960,Canada,2,91,agency_incident_id,nrcan-nfdb:9838,SK-1960-091,Saskatchewan,56.1,-103.5,83035,Canadian National Fire Database large-fire points,false,false
+1960,Canada,3,188,agency_incident_id,nrcan-nfdb:9587,SK-1960-188,Saskatchewan,57.43,-103.6,64025,Canadian National Fire Database large-fire points,false,false
+1961,Canada,1,De4045,reported_name,nrcan-nfdb:6606,AB-1961-DE4-045-61,Alberta,53.83,-116.8713,31646,Canadian National Fire Database large-fire points,false,false
+1961,Canada,2,Df4009,reported_name,nrcan-nfdb:6531,AB-1961-DF4-009-61,Alberta,58.7454,-115.1097,22935,Canadian National Fire Database large-fire points,false,false
+1961,Canada,3,Df4006,reported_name,nrcan-nfdb:6538,AB-1961-DF4-006-61,Alberta,59.2016,-114.9467,19087,Canadian National Fire Database large-fire points,false,false
+1962,Canada,1,Dw5008,reported_name,nrcan-nfdb:6722,AB-1962-DW5-008-62,Alberta,54.5358,-115.5856,2451,Canadian National Fire Database large-fire points,false,false
+1962,Canada,2,20101,agency_incident_id,nrcan-nfdb:13259,QC-1962-20101,Quebec,50.9188,-79.2559,128001,Canadian National Fire Database large-fire points,false,false
+1962,Canada,3,20102,agency_incident_id,nrcan-nfdb:13260,QC-1962-20102,Quebec,50.7281,-78.613,102400,Canadian National Fire Database large-fire points,false,false
+1963,Canada,1,Da3004,reported_name,nrcan-nfdb:6630,AB-1963-DA3-004-63,Alberta,57.6024,-111.2152,2617,Canadian National Fire Database large-fire points,false,false
+1963,Canada,2,Da4006,reported_name,nrcan-nfdb:6631,AB-1963-DA4-006-63,Alberta,58.1021,-110.9818,2491,Canadian National Fire Database large-fire points,false,false
+1963,Canada,3,Da4002,reported_name,nrcan-nfdb:6644,AB-1963-DA4-002-63,Alberta,57.8113,-112.7505,2101,Canadian National Fire Database large-fire points,false,false
+1964,Canada,1,Da1002,reported_name,nrcan-nfdb:6680,AB-1964-DA1-002-64,Alberta,56.1026,-111.7766,2678,Canadian National Fire Database large-fire points,false,false
+1964,Canada,2,Dl4002,reported_name,nrcan-nfdb:6663,AB-1964-DL4-002-64,Alberta,55.3753,-112.5275,1574,Canadian National Fire Database large-fire points,false,false
+1964,Canada,3,Dl1007,reported_name,nrcan-nfdb:6688,AB-1964-DL1-007-64,Alberta,54.7803,-110.062,1246,Canadian National Fire Database large-fire points,false,false
+1965,Canada,1,Df1006,reported_name,nrcan-nfdb:6628,AB-1965-DF1-006-65,Alberta,58.7236,-114.49,53187,Canadian National Fire Database large-fire points,false,false
+1965,Canada,2,Df1004,reported_name,nrcan-nfdb:6634,AB-1965-DF1-004-65,Alberta,57.5282,-114.5933,686,Canadian National Fire Database large-fire points,false,false
+1965,Canada,3,1965-R00228,agency_incident_id,nrcan-nfdb:4328,BC-1965-1965-R00228,British Columbia,59.818,-127.808,61730,Canadian National Fire Database large-fire points,false,false
+1966,Canada,1,Df6002,reported_name,nrcan-nfdb:6618,AB-1966-DF6-002-66,Alberta,59.4173,-118.4054,24395,Canadian National Fire Database large-fire points,false,false
+1966,Canada,2,Df2007,reported_name,nrcan-nfdb:6647,AB-1966-DF2-007-66,Alberta,57.601,-115.6107,18877,Canadian National Fire Database large-fire points,false,false
+1966,Canada,3,Ds5004,reported_name,nrcan-nfdb:6678,AB-1966-DS5-004-66,Alberta,55.8481,-115.7597,10100,Canadian National Fire Database large-fire points,false,false
+1967,Canada,1,Dw6022,reported_name,nrcan-nfdb:6704,AB-1967-DW6-022-67,Alberta,54.6086,-117.0471,3068,Canadian National Fire Database large-fire points,false,false
+1967,Canada,2,De2012,reported_name,nrcan-nfdb:6733,AB-1967-DE2-012-67,Alberta,53.9101,-117.7386,2521,Canadian National Fire Database large-fire points,false,false
+1967,Canada,3,Dw4016,reported_name,nrcan-nfdb:6828,AB-1967-DW4-016-67,Alberta,53.7966,-113.9513,1681,Canadian National Fire Database large-fire points,false,false
+1968,Canada,1,Ds2020,reported_name,nrcan-nfdb:6743,AB-1968-DS2-020-68,Alberta,54.4322,-114.335,401327,Canadian National Fire Database large-fire points,false,false
+1968,Canada,2,Dl3004,reported_name,nrcan-nfdb:6696,AB-1968-DL3-004-68,Alberta,55.1389,-112.9442,114474,Canadian National Fire Database large-fire points,false,false
+1968,Canada,3,Ds3021,reported_name,nrcan-nfdb:6714,AB-1968-DS3-021-68,Alberta,55.0594,-115.2817,77839,Canadian National Fire Database large-fire points,false,false
+1969,Canada,1,Dp5004,reported_name,nrcan-nfdb:6655,AB-1969-DP5-004-69,Alberta,57.3026,-118.6799,29743,Canadian National Fire Database large-fire points,false,false
+1969,Canada,2,Df7009,reported_name,nrcan-nfdb:6621,AB-1969-DF7-009-69,Alberta,59.6812,-117.813,24160,Canadian National Fire Database large-fire points,false,false
+1969,Canada,3,Da3004,reported_name,nrcan-nfdb:6649,AB-1969-DA3-004-69,Alberta,57.2879,-110.3606,6745,Canadian National Fire Database large-fire points,false,false
+1970,Canada,1,Dl5020,reported_name,nrcan-nfdb:6691,AB-1970-DL5-020-70,Alberta,55.4208,-110.2164,24191,Canadian National Fire Database large-fire points,false,false
+1970,Canada,2,Dl5017,reported_name,nrcan-nfdb:6690,AB-1970-DL5-017-70,Alberta,55.4844,-110.0922,18802,Canadian National Fire Database large-fire points,false,false
+1970,Canada,3,Dl9002,reported_name,nrcan-nfdb:6692,AB-1970-DL9-002-70,Alberta,55.2026,-110.319,18090,Canadian National Fire Database large-fire points,false,false
+1971,Canada,1,Df7019,reported_name,nrcan-nfdb:6616,AB-1971-DF7-019-71,Alberta,59.8266,-115.9249,61717,Canadian National Fire Database large-fire points,false,false
+1971,Canada,2,Df1074,reported_name,nrcan-nfdb:6627,AB-1971-DF1-074-71,Alberta,59.1725,-115.5157,27559,Canadian National Fire Database large-fire points,false,false
+1971,Canada,3,Df1071,reported_name,nrcan-nfdb:6625,AB-1971-DF1-071-71,Alberta,58.8236,-115.4442,8269,Canadian National Fire Database large-fire points,false,false
+1972,Canada,1,Ds2018,reported_name,nrcan-nfdb:6806,AB-1972-DS2-018-72,Alberta,55.4938,-114.499,58947,Canadian National Fire Database large-fire points,false,false
+1972,Canada,2,Dw5005,reported_name,nrcan-nfdb:6815,AB-1972-DW5-005-72,Alberta,54.6813,-115.3967,14263,Canadian National Fire Database large-fire points,false,false
+1972,Canada,3,Df1016,reported_name,nrcan-nfdb:6789,AB-1972-DF1-016-72,Alberta,57.7627,-115.7853,10822,Canadian National Fire Database large-fire points,false,false
+1973,Canada,1,Dl2011,reported_name,nrcan-nfdb:6817,AB-1973-DL2-011-73,Alberta,54.3876,-111.7603,16466,Canadian National Fire Database large-fire points,false,false
+1973,Canada,2,Dl2012,reported_name,nrcan-nfdb:6813,AB-1973-DL2-012-73,Alberta,54.5185,-111.851,2821,Canadian National Fire Database large-fire points,false,false
+1973,Canada,3,Dl2010,reported_name,nrcan-nfdb:6812,AB-1973-DL2-010-73,Alberta,54.7947,-112.0956,883,Canadian National Fire Database large-fire points,false,false
+1974,Canada,1,Dw5007,reported_name,nrcan-nfdb:6816,AB-1974-DW5-007-74,Alberta,54.554,-115.7243,25115,Canadian National Fire Database large-fire points,false,false
+1974,Canada,2,Dr3020,reported_name,nrcan-nfdb:6961,AB-1974-DR3-020-74,Alberta,51.8986,-116.3891,6721,Canadian National Fire Database large-fire points,false,false
+1974,Canada,3,Ds1005,reported_name,nrcan-nfdb:6807,AB-1974-DS1-005-74,Alberta,55.5808,-113.6596,5987,Canadian National Fire Database large-fire points,false,false
+1975,Canada,1,Df2006,reported_name,nrcan-nfdb:6772,AB-1975-DF2-006-75,Alberta,58.969,-116.1417,5481,Canadian National Fire Database large-fire points,false,false
+1975,Canada,2,Df1024,reported_name,nrcan-nfdb:6771,AB-1975-DF1-024-75,Alberta,58.9545,-116.0279,1036,Canadian National Fire Database large-fire points,false,false
+1975,Canada,3,NA,agency_incident_id,nrcan-nfdb:15287,NL-1975-NA,Newfoundland and Labrador,52.55,-56.3,373159,Canadian National Fire Database large-fire points,false,false
+1976,Canada,1,Ds1013,reported_name,nrcan-nfdb:6808,AB-1976-DS1-013-76,Alberta,55.5354,-113.9601,34456,Canadian National Fire Database large-fire points,false,false
+1976,Canada,2,Dl4033,reported_name,nrcan-nfdb:6819,AB-1976-DL4-033-76,Alberta,54.4164,-112.3046,1813,Canadian National Fire Database large-fire points,false,false
+1976,Canada,3,Dl1031,reported_name,nrcan-nfdb:6826,AB-1976-DL1-031-76,Alberta,53.8057,-110.1349,1449,Canadian National Fire Database large-fire points,false,false
+1977,Canada,1,Df1011,reported_name,nrcan-nfdb:6773,AB-1977-DF1-011-77,Alberta,59.4614,-115.4199,5795,Canadian National Fire Database large-fire points,false,false
+1977,Canada,2,Dl2006,reported_name,nrcan-nfdb:6820,AB-1977-DL2-006-77,Alberta,54.3295,-111.9812,4031,Canadian National Fire Database large-fire points,false,false
+1977,Canada,3,Dl2007,reported_name,nrcan-nfdb:6821,AB-1977-DL2-007-77,Alberta,54.5492,-112.2193,3327,Canadian National Fire Database large-fire points,false,false
+1978,Canada,1,Dl2016,reported_name,nrcan-nfdb:6796,AB-1978-DL2-016-78,Alberta,55.6099,-111.8224,2871,Canadian National Fire Database large-fire points,false,false
+1978,Canada,2,Df1034,reported_name,nrcan-nfdb:6788,AB-1978-DF1-034-78,Alberta,57.5173,-115.7852,2709,Canadian National Fire Database large-fire points,false,false
+1978,Canada,3,Dl4013,reported_name,nrcan-nfdb:6797,AB-1978-DL4-013-78,Alberta,55.7554,-112.159,2203,Canadian National Fire Database large-fire points,false,false
+1979,Canada,1,Da3021,reported_name,nrcan-nfdb:6766,AB-1979-DA3-021-79,Alberta,59.7626,-110.1251,213129,Canadian National Fire Database large-fire points,false,false
+1979,Canada,2,Da3023,reported_name,nrcan-nfdb:6767,AB-1979-DA3-023-79,Alberta,59.899,-111.0581,135137,Canadian National Fire Database large-fire points,false,false
+1979,Canada,3,Da3028,reported_name,nrcan-nfdb:6857,AB-1979-DA3-028-79,Alberta,58.1839,-110.647,44599,Canadian National Fire Database large-fire points,false,false
+1980,Canada,1,Da3002,reported_name,nrcan-nfdb:6858,AB-1980-DA3-002-80,Alberta,58.2801,-110.1896,521248,Canadian National Fire Database large-fire points,false,false
+1980,Canada,2,Dl9004,reported_name,nrcan-nfdb:6941,AB-1980-DL9-004-80,Alberta,55.319,-110.319,325773,Canadian National Fire Database large-fire points,false,false
+1980,Canada,3,Dp4032,reported_name,nrcan-nfdb:6890,AB-1980-DP4-032-80,Alberta,57.3699,-118.7916,202345,Canadian National Fire Database large-fire points,false,false
+1981,Canada,1,Dale1,reported_name,nrcan-nfdb:8748,SK-1981-DALE1,Saskatchewan,57.2552,-104.2604,1074921,Canadian National Fire Database large-fire points,false,false
+1981,Canada,2,Da2066,reported_name,nrcan-nfdb:6862,AB-1981-DA2-066-81,Alberta,58.0658,-111.1475,1011019,Canadian National Fire Database large-fire points,false,false
+1981,Canada,3,Vermillion1,reported_name,nrcan-nfdb:8769,SK-1981-VERMILLION1,Saskatchewan,56.8177,-107.2917,550687,Canadian National Fire Database large-fire points,false,false
+1982,Canada,1,Df2014,reported_name,nrcan-nfdb:6844,AB-1982-DF2-014-82,Alberta,59.2833,-116.5576,575428,Canadian National Fire Database large-fire points,false,false
+1982,Canada,2,Dp5008,reported_name,nrcan-nfdb:6882,AB-1982-DP5-008-82,Alberta,57.0065,-116.2077,155874,Canadian National Fire Database large-fire points,false,false
+1982,Canada,3,Df1035,reported_name,nrcan-nfdb:6864,AB-1982-DF1-035-82,Alberta,57.6464,-114.9648,152989,Canadian National Fire Database large-fire points,false,false
+1983,Canada,1,Living,reported_name,nrcan-nfdb:8241,SK-1983-LIVING,Saskatchewan,58.3594,-107.6146,33053,Canadian National Fire Database large-fire points,false,false
+1983,Canada,2,Elk,reported_name,nrcan-nfdb:8450,SK-1983-ELK,Saskatchewan,56.62537,-109.30911,18074,Canadian National Fire Database large-fire points,false,false
+1983,Canada,3,River,reported_name,nrcan-nfdb:9500,SK-1983-RIVER,Saskatchewan,58.5573,-107.8021,13893,Canadian National Fire Database large-fire points,false,false
+1984,Canada,1,Norwood,reported_name,nrcan-nfdb:8219,SK-1984-NORWOOD,Saskatchewan,58.85,-107.53698,169740,Canadian National Fire Database large-fire points,false,false
+1984,Canada,2,Otter,reported_name,nrcan-nfdb:9115,SK-1984-OTTER,Saskatchewan,57.3073,-109.4479,94239,Canadian National Fire Database large-fire points,false,false
+1984,Canada,3,Ens,reported_name,nrcan-nfdb:8214,SK-1984-ENS,Saskatchewan,59.02442,-108.28344,72079,Canadian National Fire Database large-fire points,false,false
+1984,United States,1,Hawk Creek,reported_name,mtbs:MT4625810827219840825,MT4625810827219840825,Montana,46.25848,-108.27154,157824,MTBS Fire Occurrence Points,false,false
+1984,United States,2,Big Draw 2,reported_name,mtbs:ID4271711563419840810,ID4271711563419840810,Idaho,42.84291,-115.6658,45780,MTBS Fire Occurrence Points,false,false
+1984,United States,3,Izen 1,reported_name,mtbs:NV4099711695019840830,NV4099711695019840830,Nevada,40.99697,-116.95039,38456,MTBS Fire Occurrence Points,false,false
+1985,Canada,1,Brustad,reported_name,nrcan-nfdb:8287,SK-1985-BRUSTAD,Saskatchewan,57.5781,-107.5521,49708,Canadian National Fire Database large-fire points,false,false
+1985,Canada,2,Picea,reported_name,nrcan-nfdb:8185,SK-1985-PICEA,Saskatchewan,59.91357,-106.6229,38524,Canadian National Fire Database large-fire points,false,false
+1985,Canada,3,Carson,reported_name,nrcan-nfdb:8177,SK-1985-CARSON,Saskatchewan,58.67535,-103.2069,29867,Canadian National Fire Database large-fire points,false,false
+1985,United States,1,Wheeler 2,reported_name,mtbs:CA3451011935419850701,CA3451011935419850701,California,34.5098,-119.35427,126905,MTBS Fire Occurrence Points,false,false
+1985,United States,2,Allan Road,reported_name,mtbs:NC3569507626119850407,NC3569507626119850407,North Carolina,35.70678,-76.3703,110644,MTBS Fire Occurrence Points,false,false
+1985,United States,3,Amax 1,reported_name,mtbs:NV4122911799519850619,NV4122911799519850619,Nevada,41.2289,-117.99503,92426,MTBS Fire Occurrence Points,false,false
+1986,Canada,1,Churchill,reported_name,nrcan-nfdb:8018,SK-1986-CHURCHILL,Saskatchewan,56.17712,-107.89524,7497,Canadian National Fire Database large-fire points,false,false
+1986,Canada,2,Frag,reported_name,nrcan-nfdb:9335,SK-1986-FRAG,Saskatchewan,53.80122,-102.48032,4066,Canadian National Fire Database large-fire points,false,false
+1986,Canada,3,Elander,reported_name,nrcan-nfdb:9934,SK-1986-ELANDER,Saskatchewan,54.75008,-101.91202,3551,Canadian National Fire Database large-fire points,false,false
+1986,United States,1,Blue Butte,reported_name,mtbs:ID4266811529419860810,ID4266811529419860810,Idaho,42.66783,-115.29438,62430,MTBS Fire Occurrence Points,false,false
+1986,United States,2,Eureka Ck,reported_name,mtbs:AK6545414341319860629,AK6545414341319860629,Alaska,65.45375,-143.4132,45315,MTBS Fire Occurrence Points,false,false
+1986,United States,3,Bissell Ck,reported_name,mtbs:ID4399611662019860810,ID4399611662019860810,Idaho,43.9957,-116.62032,40816,MTBS Fire Occurrence Points,false,false
+1987,Canada,1,Elan,reported_name,nrcan-nfdb:8898,SK-1987-ELAN,Saskatchewan,54.401,-104.5938,162626,Canadian National Fire Database large-fire points,false,false
+1987,Canada,2,Southend,reported_name,nrcan-nfdb:8802,SK-1987-SOUTHEND,Saskatchewan,56.32861,-103.22794,44872,Canadian National Fire Database large-fire points,false,false
+1987,Canada,3,Macoun,reported_name,nrcan-nfdb:7946,SK-1987-MACOUN,Saskatchewan,56.55645,-103.75727,40140,Canadian National Fire Database large-fire points,false,false
+1987,United States,1,Silver,reported_name,mtbs:OR4236212395219870830,OR4236212395219870830,Oregon,42.41856,-123.92846,96635,MTBS Fire Occurrence Points,false,false
+1987,United States,2,King Titus,reported_name,mtbs:CA4163812338919870830,CA4163812338919870830,California,41.63835,-123.38854,71333,MTBS Fire Occurrence Points,false,false
+1987,United States,3,Brushy,reported_name,mtbs:WV3791108213719871107,WV3791108213719871107,West Virginia,37.87124,-82.16672,61193,MTBS Fire Occurrence Points,false,false
+1988,Canada,1,Coffee,reported_name,nrcan-nfdb:8486,SK-1988-COFFEE,Saskatchewan,54.55764,-104.59991,87676,Canadian National Fire Database large-fire points,false,false
+1988,Canada,2,Snare,reported_name,nrcan-nfdb:9634,SK-1988-SNARE,Saskatchewan,58.1094,-107.3854,30373,Canadian National Fire Database large-fire points,false,false
+1988,Canada,3,Dr6019,reported_name,nrcan-nfdb:6516,AB-1988-DR6-019-88,Alberta,52.6996,-115.3339,18894,Canadian National Fire Database large-fire points,false,false
+1988,United States,1,North Fork,reported_name,mtbs:WY4470811082119880722,WY4470811082119880722,Wyoming,44.70808,-110.80084,563089,MTBS Fire Occurrence Points,false,false
+1988,United States,2,Clovermist,reported_name,mtbs:WY4473710995419880709,WY4473710995419880709,Wyoming,44.74726,-109.96401,303221,MTBS Fire Occurrence Points,false,false
+1988,United States,3,832604,reported_name,mtbs:AK6599614579119880629,AK6599614579119880629,Alaska,65.99605,-145.79142,294002,MTBS Fire Occurrence Points,false,false
+1989,Canada,1,Scherr,reported_name,nrcan-nfdb:7957,SK-1989-SCHERR,Saskatchewan,55.3594,-102.8854,109044,Canadian National Fire Database large-fire points,false,false
+1989,Canada,2,Laonil,reported_name,nrcan-nfdb:9225,SK-1989-LAONIL,Saskatchewan,55.64165,-103.48881,77601,Canadian National Fire Database large-fire points,false,false
+1989,Canada,3,Boulding,reported_name,nrcan-nfdb:7779,SK-1989-BOULDING,Saskatchewan,58.2344,-105.3021,71745,Canadian National Fire Database large-fire points,false,false
+1989,United States,1,Ingraham,reported_name,mtbs:FL2547708076419890517,FL2547708076419890517,Florida,25.47676,-80.76444,85371,MTBS Fire Occurrence Points,false,false
+1989,United States,2,Ft.Robinson,reported_name,mtbs:NE4268110358419890708,NE4268110358419890708,Nebraska,42.68146,-103.58368,46863,MTBS Fire Occurrence Points,false,false
+1989,United States,3,Swinging Dome,reported_name,mtbs:AK6234115827319890702,AK6234115827319890702,Alaska,62.34099,-158.27269,28863,MTBS Fire Occurrence Points,false,false
+1990,Canada,1,Dawn,reported_name,nrcan-nfdb:7635,SK-1990-DAWN,Saskatchewan,56.6094,-109.1979,83214,Canadian National Fire Database large-fire points,false,false
+1990,Canada,2,Moose1,reported_name,nrcan-nfdb:9737,SK-1990-MOOSE1,Saskatchewan,57.1615,-106.6354,79510,Canadian National Fire Database large-fire points,false,false
+1990,Canada,3,Norm1,reported_name,nrcan-nfdb:8705,SK-1990-NORM1,Saskatchewan,56.8438,-109.6042,67516,Canadian National Fire Database large-fire points,false,false
+1990,United States,1,Fyu Ne 85,reported_name,mtbs:AK6750714227819900629,AK6750714227819900629,Alaska,67.50702,-142.27804,438445,MTBS Fire Occurrence Points,false,false
+1990,United States,2,032018,reported_name,mtbs:AK6666014740219900627,AK6666014740219900627,Alaska,66.65965,-147.40221,333320,MTBS Fire Occurrence Points,false,false
+1990,United States,3,Campbell,reported_name,mtbs:CA4004112182419900806,CA4004112182419900806,California,40.04127,-121.82355,128188,MTBS Fire Occurrence Points,false,false
+1991,Canada,1,Herbert,reported_name,nrcan-nfdb:8188,SK-1991-HERBERT,Saskatchewan,59.5677,-104.4896,88483,Canadian National Fire Database large-fire points,false,false
+1991,Canada,2,Morning,reported_name,nrcan-nfdb:8889,SK-1991-MORNING,Saskatchewan,54.9844,-109.4479,65977,Canadian National Fire Database large-fire points,false,false
+1991,Canada,3,Hambone,reported_name,nrcan-nfdb:7605,SK-1991-HAMBONE,Saskatchewan,58.9115,-102.2188,62271,Canadian National Fire Database large-fire points,false,false
+1991,United States,1,Blaine C,reported_name,mtbs:MT4838610920219911016,MT4838610920219911016,Montana,48.38638,-109.2023,138147,MTBS Fire Occurrence Points,false,false
+1991,United States,2,131569,reported_name,mtbs:AK6667715221319910630,AK6667715221319910630,Alaska,66.67677,-152.21258,109499,MTBS Fire Occurrence Points,false,false
+1991,United States,3,Btt S 17,reported_name,mtbs:AK6670715154819910630,AK6670715154819910630,Alaska,66.70742,-151.54772,43568,MTBS Fire Occurrence Points,false,false
+1992,Canada,1,Cat,reported_name,nrcan-nfdb:8292,SK-1992-CAT,Saskatchewan,57.7865,-106.7188,98842,Canadian National Fire Database large-fire points,false,false
+1992,Canada,2,Burn,reported_name,nrcan-nfdb:7737,SK-1992-BURN,Saskatchewan,59.6771,-103.2292,48936,Canadian National Fire Database large-fire points,false,false
+1992,Canada,3,Darrell,reported_name,nrcan-nfdb:8875,SK-1992-DARRELL,Saskatchewan,55.1198,-108.8021,33443,Canadian National Fire Database large-fire points,false,false
+1992,United States,1,Foothills,reported_name,mtbs:ID4351911570619920819,ID4351911570619920819,Idaho,43.52614,-115.73345,228509,MTBS Fire Occurrence Points,false,false
+1992,United States,2,Black Ridge,reported_name,mtbs:ID4308811381819920802,ID4308811381819920802,Idaho,43.08846,-113.818,147957,MTBS Fire Occurrence Points,false,false
+1992,United States,3,Fountain,reported_name,mtbs:CA4084612185219920820,CA4084612185219920820,California,40.84603,-121.85174,62301,MTBS Fire Occurrence Points,false,false
+1993,Canada,1,Deer,reported_name,nrcan-nfdb:7645,SK-1993-DEER,Saskatchewan,55.1719,-109.2604,745555,Canadian National Fire Database large-fire points,false,false
+1993,Canada,2,Dino,reported_name,nrcan-nfdb:9806,SK-1993-DINO,Saskatchewan,56.1823,-103.1354,127753,Canadian National Fire Database large-fire points,false,false
+1993,Canada,3,Wilma2,reported_name,nrcan-nfdb:7883,SK-1993-WILMA2,Saskatchewan,57.3698,-102.9271,123553,Canadian National Fire Database large-fire points,false,false
+1993,United States,1,332557,reported_name,mtbs:AK6583214355319930714,AK6583214355319930714,Alaska,65.8317,-143.55293,214170,MTBS Fire Occurrence Points,false,false
+1993,United States,2,3322292,reported_name,mtbs:AK6606114286419930606,AK6606114286419930606,Alaska,66.13137,-142.86882,60748,MTBS Fire Occurrence Points,false,false
+1993,United States,3,332248,reported_name,mtbs:AK6580114976419930604,AK6580114976419930604,Alaska,65.80086,-149.76387,39886,MTBS Fire Occurrence Points,false,false
+1994,Canada,1,Time,reported_name,nrcan-nfdb:8235,SK-1994-TIME,Saskatchewan,58.6823,-106.3646,373979,Canadian National Fire Database large-fire points,false,false
+1994,Canada,2,Kirsh,reported_name,nrcan-nfdb:8237,SK-1994-KIRSH,Saskatchewan,57.9896,-105.5208,370658,Canadian National Fire Database large-fire points,false,false
+1994,Canada,3,Green,reported_name,nrcan-nfdb:8558,SK-1994-GREEN,Saskatchewan,59.3906,-104.5729,134302,Canadian National Fire Database large-fire points,false,false
+1994,United States,1,Corral Creek-Blackwell Complex,reported_name,mtbs:ID4515511602719940802,ID4515511602719940802,Idaho,45.1552,-116.02705,139998,MTBS Fire Occurrence Points,false,false
+1994,United States,2,Baby Dean,reported_name,mtbs:MT4550810679219940908,MT4550810679219940908,Montana,45.50845,-106.79221,61933,MTBS Fire Occurrence Points,false,false
+1994,United States,3,41,reported_name,mtbs:CA3539212068319940814,CA3539212068319940814,California,35.39178,-120.6826,48452,MTBS Fire Occurrence Points,false,false
+1995,Canada,1,Tocker,reported_name,nrcan-nfdb:8706,SK-1995-TOCKER,Saskatchewan,56.9948,-109.25,607879,Canadian National Fire Database large-fire points,false,false
+1995,Canada,2,Moose01,reported_name,nrcan-nfdb:8888,SK-1995-MOOSE01,Saskatchewan,54.8073,-109.3646,345948,Canadian National Fire Database large-fire points,false,false
+1995,Canada,3,Dl1009,reported_name,nrcan-nfdb:6570,AB-1995-DL1-009-95,Alberta,56.0806,-112.2983,327856,Canadian National Fire Database large-fire points,false,false
+1995,United States,1,Tuana Complex,reported_name,mtbs:ID4243011543019950729,ID4243011543019950729,Idaho,42.43039,-115.43016,80611,MTBS Fire Occurrence Points,false,false
+1995,United States,2,Redlam,reported_name,mtbs:UT4072211291219950827,UT4072211291219950827,Utah,40.72239,-112.91228,35400,MTBS Fire Occurrence Points,false,false
+1995,United States,3,Twin Butte,reported_name,mtbs:ID4273911507119950728,ID4273911507119950728,Idaho,42.73857,-115.07081,32552,MTBS Fire Occurrence Points,false,false
+1996,Canada,1,Zangeza,reported_name,nrcan-nfdb:8201,SK-1996-ZANGEZA,Saskatchewan,58.2031,-102.0313,8649,Canadian National Fire Database large-fire points,false,false
+1996,Canada,2,Whigham,reported_name,nrcan-nfdb:8230,SK-1996-WHIGHAM,Saskatchewan,58.7344,-104.5938,6338,Canadian National Fire Database large-fire points,false,false
+1996,Canada,3,Wally,reported_name,nrcan-nfdb:8912,SK-1996-WALLY,Saskatchewan,53.849,-105.1771,3707,Canadian National Fire Database large-fire points,false,false
+1996,United States,1,Coxs Well,reported_name,mtbs:ID4318311309619960827,ID4318311309619960827,Idaho,43.1828,-113.09597,219407,MTBS Fire Occurrence Points,false,false
+1996,United States,2,Leamington Complex (Wash),reported_name,mtbs:UT3978911229219960802,UT3978911229219960802,Utah,39.71897,-112.19661,161106,MTBS Fire Occurrence Points,false,false
+1996,United States,3,Simnasho,reported_name,mtbs:OR4487312131019960810,OR4487312131019960810,Oregon,44.91044,-121.23269,118426,MTBS Fire Occurrence Points,false,false
+1997,Canada,1,Mawdsley,reported_name,nrcan-nfdb:7866,SK-1997-MAWDSLEY,Saskatchewan,56.6823,-106.3854,939,Canadian National Fire Database large-fire points,false,false
+1997,Canada,2,Wind,reported_name,nrcan-nfdb:9350,SK-1997-WIND,Saskatchewan,53.1198,-104.8854,865,Canadian National Fire Database large-fire points,false,false
+1997,Canada,3,Hatchet,reported_name,nrcan-nfdb:9547,SK-1997-HATCHET,Saskatchewan,58.1927,-103.6146,741,Canadian National Fire Database large-fire points,false,false
+1997,United States,1,Garfield Creek,reported_name,mtbs:AK6541616436919970722,AK6541616436919970722,Alaska,65.43393,-164.41226,77430,MTBS Fire Occurrence Points,false,false
+1997,United States,2,Logan,reported_name,mtbs:CA3511312010319970804,CA3511312010319970804,California,35.11291,-120.10322,49684,MTBS Fire Occurrence Points,false,false
+1997,United States,3,B 484,reported_name,mtbs:AK6613814322119970703,AK6613814322119970703,Alaska,66.13822,-143.22054,44810,MTBS Fire Occurrence Points,false,false
+1998,Canada,1,Abat,reported_name,nrcan-nfdb:9269,SK-1998-ABAT,Saskatchewan,56.1823,-109.5313,348419,Canadian National Fire Database large-fire points,false,false
+1998,Canada,2,Lasoup,reported_name,nrcan-nfdb:9141,SK-1998-LASOUP,Saskatchewan,56.4948,-106.3646,296526,Canadian National Fire Database large-fire points,false,false
+1998,Canada,3,Bing,reported_name,nrcan-nfdb:9039,SK-1998-BING,Saskatchewan,58.6406,-104.5313,175445,Canadian National Fire Database large-fire points,false,false
+1998,United States,1,Carla Lake,reported_name,mtbs:AK6406014607919980521,AK6406014607919980521,Alaska,64.05981,-146.07897,62462,MTBS Fire Occurrence Points,false,false
+1998,United States,2,Annual Bur,reported_name,mtbs:KS3847509656719980401,KS3847509656719980401,Kansas,38.47505,-96.56714,60063,MTBS Fire Occurrence Points,false,false
+1998,United States,3,Ciblo Creek Fire,reported_name,mtbs:TX2993910441119980530,TX2993910441119980530,Texas,29.93601,-104.41282,51729,MTBS Fire Occurrence Points,false,false
+1999,Canada,1,Whiskey,reported_name,nrcan-nfdb:8121,SK-1999-WHISKEY,Saskatchewan,59.849,-108.6146,89516,Canadian National Fire Database large-fire points,false,false
+1999,Canada,2,Darcy,reported_name,nrcan-nfdb:9110,SK-1999-DARCY,Saskatchewan,56.6615,-109.4688,71937,Canadian National Fire Database large-fire points,false,false
+1999,Canada,3,Sixty,reported_name,nrcan-nfdb:8597,SK-1999-SIXTY,Saskatchewan,59.9427,-107.2188,41492,Canadian National Fire Database large-fire points,false,false
+1999,United States,1,Kevinjik,reported_name,mtbs:AK6667114200419990620,AK6667114200419990620,Alaska,66.67139,-142.00424,252778,MTBS Fire Occurrence Points,false,false
+1999,United States,2,Dun Glenn Complex (Poker Brown),reported_name,mtbs:NV4050111851919990804,NV4050111851919990804,Nevada,40.5012,-118.5189,236353,MTBS Fire Occurrence Points,false,false
+1999,United States,3,Sadler Complex,reported_name,mtbs:NV4034111594019990805,NV4034111594019990805,Nevada,40.34107,-115.94049,183801,MTBS Fire Occurrence Points,false,false
+2000,Canada,1,Kevin1,reported_name,nrcan-nfdb:7587,SK-2000-KEVIN1,Saskatchewan,59.4323,-107.8646,107988,Canadian National Fire Database large-fire points,false,false
+2000,Canada,2,Dunlop,reported_name,nrcan-nfdb:8682,SK-2000-DUNLOP,Saskatchewan,57.474,-107.0521,98471,Canadian National Fire Database large-fire points,false,false
+2000,Canada,3,Tea,reported_name,nrcan-nfdb:9007,SK-2000-TEA,Saskatchewan,59.849,-107.8333,47331,Canadian National Fire Database large-fire points,false,false
+2000,United States,1,Diamond Complex (Diamond Peak),reported_name,mtbs:ID4505611489120000731,ID4505611489120000731,Idaho,45.05599,-114.89142,271336,MTBS Fire Occurrence Points,false,false
+2000,United States,2,Clear Creek Divide Complex (Clear Creek),reported_name,mtbs:ID4519911434120000710,ID4519911434120000710,Idaho,45.19863,-114.34067,170370,MTBS Fire Occurrence Points,false,false
+2000,United States,3,Zitziana,reported_name,mtbs:AK6467315092520000613,AK6467315092520000613,Alaska,64.67278,-150.92465,167664,MTBS Fire Occurrence Points,false,false
+2001,Canada,1,Mackenzie1,reported_name,nrcan-nfdb:8668,SK-2001-MACKENZIE1,Saskatchewan,57.8025,-102.672,90589,Canadian National Fire Database large-fire points,false,false
+2001,Canada,2,John1,reported_name,nrcan-nfdb:8321,SK-2001-JOHN1,Saskatchewan,57.6833,-104.283,64989,Canadian National Fire Database large-fire points,false,false
+2001,Canada,3,Zengle,reported_name,nrcan-nfdb:8267,SK-2001-ZENGLE,Saskatchewan,57.945,-102.233,54116,Canadian National Fire Database large-fire points,false,false
+2001,United States,1,Big Juniper,reported_name,mtbs:OR4295411972520010808,OR4295411972520010808,Oregon,42.9543,-119.72498,95236,MTBS Fire Occurrence Points,false,false
+2001,United States,2,Sheep,reported_name,mtbs:NV4077411679420010809,NV4077411679420010809,Nevada,40.77424,-116.79433,85037,MTBS Fire Occurrence Points,false,false
+2001,United States,3,Fish Creek,reported_name,mtbs:AK6431714867020010620,AK6431714867020010620,Alaska,64.31732,-148.67045,83306,MTBS Fire Occurrence Points,false,false
+2002,Canada,1,Dobbin,reported_name,nrcan-nfdb:8727,SK-2002-DOBBIN,Saskatchewan,56.7333,-104.864,373440,Canadian National Fire Database large-fire points,false,false
+2002,Canada,2,Meadow1,reported_name,nrcan-nfdb:7632,SK-2002-MEADOW1,Saskatchewan,56.2945,-108.794,186387,Canadian National Fire Database large-fire points,false,false
+2002,Canada,3,Nagle,reported_name,nrcan-nfdb:9152,SK-2002-NAGLE,Saskatchewan,56.2237,-105.143,175445,Canadian National Fire Database large-fire points,false,false
+2002,United States,1,Rodeo,reported_name,mtbs:AZ3423311046320020618,AZ3423311046320020618,Arizona,34.23326,-110.46325,461451,MTBS Fire Occurrence Points,false,false
+2002,United States,2,Geskakmina Lake,reported_name,mtbs:AK6452215036320020608,AK6452215036320020608,Alaska,64.49976,-150.61082,260185,MTBS Fire Occurrence Points,false,false
+2002,United States,3,Reindeer,reported_name,mtbs:AK6232015915020020717,AK6232015915020020717,Alaska,62.31972,-159.14996,225602,MTBS Fire Occurrence Points,false,false
+2003,Canada,1,Conibear Lake,reported_name,nrcan-nfdb:18457,PC-WB-2003-WB-7,Parks Canada,59.5872,-113.0,209521,Canadian National Fire Database large-fire points,false,false
+2003,Canada,2,Syncline PB,reported_name,nrcan-nfdb:18672,PC-JA-2003-JA-3,Parks Canada,53.16,-117.9339,69493,Canadian National Fire Database large-fire points,false,false
+2003,Canada,3,Pasture,reported_name,nrcan-nfdb:8497,SK-2003-PASTURE,Saskatchewan,53.7443,-105.479,51961,Canadian National Fire Database large-fire points,false,false
+2003,United States,1,Cedar,reported_name,mtbs:CA3293911676620031025,CA3293911676620031025,California,32.93857,-116.76554,268142,MTBS Fire Occurrence Points,false,false
+2003,United States,2,Missouri Breaks Complex,reported_name,mtbs:MT4751410764220030719,MT4751410764220030719,Montana,47.42637,-107.68019,137971,MTBS Fire Occurrence Points,false,false
+2003,United States,3,Erickson Creek,reported_name,mtbs:AK6562714891520030617,AK6562714891520030617,Alaska,65.62695,-148.91507,119594,MTBS Fire Occurrence Points,false,false
+2004,Canada,1,Klewi,reported_name,nrcan-nfdb:18281,PC-WB-2004-WB-3,Parks Canada,59.8292,-113.9639,224767,Canadian National Fire Database large-fire points,false,false
+2004,Canada,2,Angus Pine 1,reported_name,nrcan-nfdb:18283,PC-WB-2004-WB-21,Parks Canada,60.2858,-114.0881,128421,Canadian National Fire Database large-fire points,false,false
+2004,Canada,3,04La-George,reported_name,nrcan-nfdb:8336,SK-2004-04LA-GEORGE,Saskatchewan,56.1048,-106.166,63323,Canadian National Fire Database large-fire points,false,false
+2004,United States,1,Boundary,reported_name,mtbs:AK6526314694320040613,AK6526314694320040613,Alaska,65.2629,-146.94307,537728,MTBS Fire Occurrence Points,false,false
+2004,United States,2,Dall City,reported_name,mtbs:AK6628114999320040706,AK6628114999320040706,Alaska,66.28092,-149.99269,530540,MTBS Fire Occurrence Points,false,false
+2004,United States,3,Taylor Highway Complex (Billy Creek),reported_name,mtbs:AK6377414344020040618,AK6377414344020040618,Alaska,63.77421,-143.44031,460335,MTBS Fire Occurrence Points,false,false
+2005,Canada,1,05La-Howes,reported_name,nrcan-nfdb:7901,SK-2005-05LA-HOWES,Saskatchewan,56.742,-105.134,74905,Canadian National Fire Database large-fire points,false,false
+2005,Canada,2,05Ll-Pascal,reported_name,nrcan-nfdb:7623,SK-2005-05LL-PASCAL,Saskatchewan,57.372,-109.916,53869,Canadian National Fire Database large-fire points,false,false
+2005,Canada,3,05Se-Windrum,reported_name,nrcan-nfdb:9172,SK-2005-05SE-WINDRUM,Saskatchewan,56.11,-104.169,49421,Canadian National Fire Database large-fire points,false,false
+2005,United States,1,Southern Nevada Complex (Duzak),reported_name,mtbs:NV3724211430320050622,NV3724211430320050622,Nevada,37.15585,-114.22465,327383,MTBS Fire Occurrence Points,false,false
+2005,United States,2,Salmon Fork,reported_name,mtbs:AK6640514222320050719,AK6640514222320050719,Alaska,66.40508,-142.22302,255430,MTBS Fire Occurrence Points,false,false
+2005,United States,3,Cave Creek Complex,reported_name,mtbs:AZ3424311187720050621,AZ3424311187720050621,Arizona,34.07035,-111.90814,245997,MTBS Fire Occurrence Points,false,false
+2006,Canada,1,06Ll-Murzin,reported_name,nrcan-nfdb:7843,SK-2006-06LL-MURZIN,Saskatchewan,57.8053,-109.543,515314,Canadian National Fire Database large-fire points,false,false
+2006,Canada,2,06Sr-Royal,reported_name,nrcan-nfdb:7767,SK-2006-06SR-ROYAL,Saskatchewan,59.1042,-108.616,440507,Canadian National Fire Database large-fire points,false,false
+2006,Canada,3,06Sr-Supper,reported_name,nrcan-nfdb:9025,SK-2006-06SR-SUPPER,Saskatchewan,59.069,-107.889,345619,Canadian National Fire Database large-fire points,false,false
+2006,United States,1,East Amarillo Complex,reported_name,mtbs:TX3551510078020060312,TX3551510078020060312,Texas,35.52155,-100.78387,593293,MTBS Fire Occurrence Points,false,false
+2006,United States,2,Winters,reported_name,mtbs:NV4142111667920060725,NV4142111667920060725,Nevada,41.42089,-116.67899,242689,MTBS Fire Occurrence Points,false,false
+2006,United States,3,Crystal,reported_name,mtbs:ID4310411315820060815,ID4310411315820060815,Idaho,43.10422,-113.15843,218571,MTBS Fire Occurrence Points,false,false
+2007,Canada,1,Jordin Creek,reported_name,nrcan-nfdb:18312,PC-WB-2007-WB-2,Parks Canada,59.1778,-112.8969,309396,Canadian National Fire Database large-fire points,false,false
+2007,Canada,2,Lake One,reported_name,nrcan-nfdb:18326,PC-WB-2007-WB-1,Parks Canada,59.0233,-112.5347,220428,Canadian National Fire Database large-fire points,false,false
+2007,Canada,3,07Bn-Elmer,reported_name,nrcan-nfdb:8256,SK-2007-07BN-ELMER,Saskatchewan,57.3613,-106.004,200909,Canadian National Fire Database large-fire points,false,false
+2007,United States,1,Murphy Complex,reported_name,mtbs:ID4216011532120070721,ID4216011532120070721,Idaho,42.16024,-115.32143,567212,MTBS Fire Occurrence Points,false,false
+2007,United States,2,Milford Flat,reported_name,mtbs:UT3868911273920070706,UT3868911273920070706,Utah,38.68929,-112.73904,348702,MTBS Fire Occurrence Points,false,false
+2007,United States,3,Big Turnaround Complex,reported_name,mtbs:GA3067208246020070425,GA3067208246020070425,Georgia,30.60495,-82.34698,328707,MTBS Fire Occurrence Points,false,false
+2008,Canada,1,08Sr-Creek,reported_name,nrcan-nfdb:7579,SK-2008-08SR-CREEK,Saskatchewan,59.2042,-104.608,338967,Canadian National Fire Database large-fire points,false,false
+2008,Canada,2,08Pn-Mirond,reported_name,nrcan-nfdb:8477,SK-2008-08PN-MIROND,Saskatchewan,55.2382,-102.767,227520,Canadian National Fire Database large-fire points,false,false
+2008,Canada,3,08Sr-Viking,reported_name,nrcan-nfdb:8956,SK-2008-08SR-VIKING,Saskatchewan,59.5843,-108.283,210966,Canadian National Fire Database large-fire points,false,false
+2008,United States,1,Glass,reported_name,mtbs:TX3160710111020080225,TX3160710111020080225,Texas,31.60677,-101.10978,196982,MTBS Fire Occurrence Points,false,false
+2008,United States,2,Basin Complex,reported_name,mtbs:CA3621212157820080621,CA3621212157820080621,California,36.25619,-121.63751,164453,MTBS Fire Occurrence Points,false,false
+2008,United States,3,Dunn Mtn. Assist,reported_name,mtbs:MT4621810818620080821,MT4621810818620080821,Montana,46.21776,-108.18634,105537,MTBS Fire Occurrence Points,false,false
+2009,Canada,1,Pelican Creek,reported_name,nrcan-nfdb:18590,PC-WB-2009-WB-1,Parks Canada,58.6069,-111.6958,47820,Canadian National Fire Database large-fire points,false,false
+2009,Canada,2,09Ll-Patterson,reported_name,nrcan-nfdb:7842,SK-2009-09LL-PATTERSON,Saskatchewan,57.785,-109.289,15073,Canadian National Fire Database large-fire points,false,false
+2009,Canada,3,09Ll-Quest,reported_name,nrcan-nfdb:9117,SK-2009-09LL-QUEST,Saskatchewan,57.0023,-109.967,13344,Canadian National Fire Database large-fire points,false,false
+2009,United States,1,Railbelt Complex (Minto Flats South),reported_name,mtbs:AK6457914968420090621,AK6457914968420090621,Alaska,64.57941,-149.68436,523418,MTBS Fire Occurrence Points,false,false
+2009,United States,2,Station,reported_name,mtbs:CA3432711813620090826,CA3432711813620090826,California,34.32658,-118.13629,165285,MTBS Fire Occurrence Points,false,false
+2009,United States,3,Tonclonukna Creek,reported_name,mtbs:AK6335015356320090523,AK6335015356320090523,Alaska,63.28504,-153.29581,158922,MTBS Fire Occurrence Points,false,false
+2010,Canada,1,10Sr-Pasfield,reported_name,nrcan-nfdb:7778,SK-2010-10SR-PASFIELD,Saskatchewan,58.2667,-105.583,1119743,Canadian National Fire Database large-fire points,false,false
+2010,Canada,2,10Sr-Ryan,reported_name,nrcan-nfdb:8616,SK-2010-10SR-RYAN,Saskatchewan,58.902,-106.824,472750,Canadian National Fire Database large-fire points,false,false
+2010,Canada,3,10Bn-Garret,reported_name,nrcan-nfdb:7845,SK-2010-10BN-GARRET,Saskatchewan,58.1667,-107.167,321237,Canadian National Fire Database large-fire points,false,false
+2010,United States,1,Long Butte,reported_name,mtbs:ID4275711507020100821,ID4275711507020100821,Idaho,42.66838,-115.16408,302474,MTBS Fire Occurrence Points,false,false
+2010,United States,2,Toklat 2,reported_name,mtbs:AK6434715059120100604,AK6434715059120100604,Alaska,64.23639,-150.89302,146470,MTBS Fire Occurrence Points,false,false
+2010,United States,3,Jefferson,reported_name,mtbs:ID4367911257020100713,ID4367911257020100713,Idaho,43.67945,-112.56961,108497,MTBS Fire Occurrence Points,false,false
+2011,Canada,1,11Ll-Gerald,reported_name,nrcan-nfdb:8313,SK-2011-11LL-GERALD,Saskatchewan,57.0485,-109.646,245571,Canadian National Fire Database large-fire points,false,false
+2011,Canada,2,11Sr-Point,reported_name,nrcan-nfdb:7585,SK-2011-11SR-POINT,Saskatchewan,59.5583,-109.642,171924,Canadian National Fire Database large-fire points,false,false
+2011,Canada,3,Richardson,reported_name,nrcan-nfdb:18631,PC-WB-2011-2011-WB-2,Parks Canada,58.1013,-111.1863,115628,Canadian National Fire Database large-fire points,false,false
+2011,United States,1,Wallow,reported_name,mtbs:AZ3360210944920110529,AZ3360210944920110529,Arizona,33.79804,-109.29495,563564,MTBS Fire Occurrence Points,false,false
+2011,United States,2,Rock House,reported_name,mtbs:TX3031210406220110409,TX3031210406220110409,Texas,30.68354,-103.93645,299011,MTBS Fire Occurrence Points,false,false
+2011,United States,3,Horseshoe 2,reported_name,mtbs:AZ3182010921120110508,AZ3182010921120110508,Arizona,31.89172,-109.29944,226042,MTBS Fire Occurrence Points,false,false
+2012,Canada,1,Bolton Creek,reported_name,nrcan-nfdb:18649,PC-WB-2012-2012WB1,Parks Canada,58.095,-113.368,283252,Canadian National Fire Database large-fire points,false,false
+2012,Canada,2,Hoohey creek,reported_name,nrcan-nfdb:18547,PC-WB-2012-2012WB9,Parks Canada,59.677,-115.568,153104,Canadian National Fire Database large-fire points,false,false
+2012,Canada,3,12Sr-Trout,reported_name,nrcan-nfdb:8246,SK-2012-12SR-TROUT,Saskatchewan,58.61667,-108.41667,131334,Canadian National Fire Database large-fire points,false,false
+2012,United States,1,Long Draw,reported_name,mtbs:OR4239211789420120708,OR4239211789420120708,Oregon,42.44043,-117.63663,557211,MTBS Fire Occurrence Points,false,false
+2012,United States,2,Holloway,reported_name,mtbs:NV4197311836620120805,NV4197311836620120805,Nevada,42.01199,-118.25294,457680,MTBS Fire Occurrence Points,false,false
+2012,United States,3,Mustang Complex,reported_name,mtbs:ID4542411459020120730,ID4542411459020120730,Idaho,45.46471,-114.51635,377684,MTBS Fire Occurrence Points,false,false
+2013,Canada,1,13Lx-Timson,reported_name,nrcan-nfdb:9496,SK-2013-13LX-TIMSON,Saskatchewan,58.112,-106.18517,302580,Canadian National Fire Database large-fire points,false,false
+2013,Canada,2,13Sr-Snare,reported_name,nrcan-nfdb:8217,SK-2013-13SR-SNARE,Saskatchewan,58.71754,-107.99589,186112,Canadian National Fire Database large-fire points,false,false
+2013,Canada,3,13Sr-Helmer,reported_name,nrcan-nfdb:8209,SK-2013-13SR-HELMER,Saskatchewan,59.24387,-107.38938,90327,Canadian National Fire Database large-fire points,false,false
+2013,United States,1,Rim,reported_name,mtbs:CA3785712008620130817,CA3785712008620130817,California,37.90462,-119.93874,257334,MTBS Fire Occurrence Points,false,false
+2013,United States,2,Lime Hills,reported_name,mtbs:AK6145515569120130531,AK6145515569120130531,Alaska,61.52067,-155.47595,193970,MTBS Fire Occurrence Points,false,false
+2013,United States,3,Pony Complex,reported_name,mtbs:ID4329411554820130809,ID4329411554820130809,Idaho,43.38456,-115.68752,148112,MTBS Fire Occurrence Points,false,false
+2014,Canada,1,Fire 25,reported_name,nrcan-nfdb:18388,PC-WB-2014-2014WB25,Parks Canada,60.38272,-115.51987,212307,Canadian National Fire Database large-fire points,false,false
+2014,Canada,2,14Lx-Lansdowne,reported_name,nrcan-nfdb:7846,SK-2014-14LX-LANSDOWNE,Saskatchewan,57.52425,-107.00597,193377,Canadian National Fire Database large-fire points,false,false
+2014,Canada,3,Fire 28,reported_name,nrcan-nfdb:18433,PC-WB-2014-2014WB28,Parks Canada,60.37275,-114.30242,151445,Canadian National Fire Database large-fire points,false,false
+2014,United States,1,Saddle Draw,reported_name,mtbs:OR4332411821620140714,OR4332411821620140714,Oregon,43.30257,-118.10047,283891,MTBS Fire Occurrence Points,false,false
+2014,United States,2,Funny River,reported_name,mtbs:AK6043915096220140520,AK6043915096220140520,Alaska,60.34057,-150.79336,193705,MTBS Fire Occurrence Points,false,false
+2014,United States,3,Happy Camp Complex,reported_name,mtbs:CA4179612337420140814,CA4179612337420140814,California,41.72413,-123.19784,118399,MTBS Fire Occurrence Points,false,false
+2015,Canada,1,15Bn-Ron,reported_name,nrcan-nfdb:9191,SK-2015-15BN-RON,Saskatchewan,56.85,-108.23333,605993,Canadian National Fire Database large-fire points,false,false
+2015,Canada,2,15Lx-Forcier,reported_name,nrcan-nfdb:8779,SK-2015-15LX-FORCIER,Saskatchewan,56.08795,-107.62788,441869,Canadian National Fire Database large-fire points,false,false
+2015,Canada,3,15Lx-Senyk,reported_name,nrcan-nfdb:8458,SK-2015-15LX-SENYK,Saskatchewan,55.52273,-106.7141,345966,Canadian National Fire Database large-fire points,false,false
+2015,United States,1,Middle Yukon Fires,reported_name,mtbs:AK6457315474120150703,AK6457315474120150703,Alaska,64.53817,-154.75127,407220,MTBS Fire Occurrence Points,false,false
+2015,United States,2,Soda,reported_name,mtbs:ID4311811696020150810,ID4311811696020150810,Idaho,43.32937,-116.91367,282664,MTBS Fire Occurrence Points,false,false
+2015,United States,3,Tobatokh,reported_name,mtbs:AK6586715326720150622,AK6586715326720150622,Alaska,65.79081,-153.34711,220037,MTBS Fire Occurrence Points,false,false
+2016,Canada,1,16Sr-Stone,reported_name,nrcan-nfdb:9501,SK-2016-16SR-STONE,Saskatchewan,58.59498,-107.36173,198544,Canadian National Fire Database large-fire points,false,false
+2016,Canada,2,16Bn-Koop,reported_name,nrcan-nfdb:9741,SK-2016-16BN-KOOP,Saskatchewan,57.67403,-108.57757,59810,Canadian National Fire Database large-fire points,false,false
+2016,Canada,3,16Bn-Brian,reported_name,nrcan-nfdb:9121,SK-2016-16BN-BRIAN,Saskatchewan,57.60012,-109.1866,53663,Canadian National Fire Database large-fire points,false,false
+2016,United States,1,Anderson Creek Fire,reported_name,mtbs:OK3692409905720160323,OK3692409905720160323,Oklahoma,37.12092,-98.89429,374226,MTBS Fire Occurrence Points,false,false
+2016,United States,2,Pioneer,reported_name,mtbs:ID4395011576220160718,ID4395011576220160718,Idaho,44.11872,-115.5837,189508,MTBS Fire Occurrence Points,false,false
+2016,United States,3,Range 12,reported_name,mtbs:WA4659912020320160731,WA4659912020320160731,Washington,46.49058,-119.92423,167703,MTBS Fire Occurrence Points,false,false
+2017,Canada,1,17Db-Granite,reported_name,nrcan-nfdb:9300,SK-2017-17DB-GRANITE,Saskatchewan,54.90478,-102.60695,303971,Canadian National Fire Database large-fire points,false,false
+2017,Canada,2,17Lx-Engemman,reported_name,nrcan-nfdb:8240,SK-2017-17LX-ENGEMMAN,Saskatchewan,57.88842,-106.92393,124785,Canadian National Fire Database large-fire points,false,false
+2017,Canada,3,17Db-Preston,reported_name,nrcan-nfdb:8824,SK-2017-17DB-PRESTON,Saskatchewan,55.31755,-103.07195,121373,Canadian National Fire Database large-fire points,false,false
+2017,United States,1,Oks - Starbuck,reported_name,mtbs:OK3677410017520170307,OK3677410017520170307,Oklahoma,37.09741,-99.90309,656868,MTBS Fire Occurrence Points,false,false
+2017,United States,2,Perryton,reported_name,mtbs:TX3608710053120170306,TX3608710053120170306,Texas,36.03714,-100.29311,290085,MTBS Fire Occurrence Points,false,false
+2017,United States,3,Thomas,reported_name,mtbs:CA3442911910020171205,CA3442911910020171205,California,34.45012,-119.28644,282076,MTBS Fire Occurrence Points,false,false
+2018,Canada,1,Rabbit Fire,reported_name,nrcan-nfdb:18333,PC-PA-2018-2018PA4,Parks Canada,53.6,-106.5,89946,Canadian National Fire Database large-fire points,false,false
+2018,Canada,2,18Wy-Rabbit,reported_name,nrcan-nfdb:8514,SK-2018-18WY-RABBIT,Saskatchewan,53.5806,-106.39166,87515,Canadian National Fire Database large-fire points,false,false
+2018,Canada,3,18Bn-Langly,reported_name,nrcan-nfdb:8367,SK-2018-18BN-LANGLY,Saskatchewan,57.25266,-108.97588,33221,Canadian National Fire Database large-fire points,false,false
+2018,United States,1,Martin,reported_name,mtbs:NV4152811742720180705,NV4152811742720180705,Nevada,41.60213,-116.97469,431841,MTBS Fire Occurrence Points,false,false
+2018,United States,2,Ranch,reported_name,mtbs:CA3924012311020180727,CA3924012311020180727,California,39.27886,-122.76003,426721,MTBS Fire Occurrence Points,false,false
+2018,United States,3,Rhea,reported_name,mtbs:OK3585009921020180412,OK3585009921020180412,Oklahoma,35.99882,-99.07283,277724,MTBS Fire Occurrence Points,false,false
+2019,Canada,1,Fire 3 - Lynx Lake,reported_name,nrcan-nfdb:18543,PC-WB-2019-2019WB3,Parks Canada,59.2879,-112.0985,194602,Canadian National Fire Database large-fire points,false,false
+2019,Canada,2,Sass Lake,reported_name,nrcan-nfdb:18446,PC-WB-2019-2019WB9,Parks Canada,59.9124,-113.5574,45855,Canadian National Fire Database large-fire points,false,false
+2019,Canada,3,19Bn-Trail,reported_name,nrcan-nfdb:9516,SK-2019-19BN-TRAIL,Saskatchewan,58.19378,-109.59457,45601,Canadian National Fire Database large-fire points,false,false
+2019,United States,1,Chalkyitsik Complex,reported_name,mtbs:AK6657114321520190709,AK6657114321520190709,Alaska,66.61908,-143.32866,470271,MTBS Fire Occurrence Points,false,false
+2019,United States,2,Hess Creek,reported_name,mtbs:AK6569814836520190622,AK6569814836520190622,Alaska,65.63299,-148.21298,181319,MTBS Fire Occurrence Points,false,false
+2019,United States,3,Old Grouch Top,reported_name,mtbs:AK6330815738820190605,AK6330815738820190605,Alaska,63.23775,-157.59524,173850,MTBS Fire Occurrence Points,false,false
+2020,Canada,1,20Pa-English,reported_name,nrcan-nfdb:10060,SK-2020-20PA-ENGLISH,Saskatchewan,53.30833,-105.01667,101062,Canadian National Fire Database large-fire points,false,false
+2020,Canada,2,We004,reported_name,nrcan-nfdb:10242,MB-2020-MB2020WE004,Manitoba,52.08583,-100.17972,62420,Canadian National Fire Database large-fire points,false,false
+2020,Canada,3,Ea035,reported_name,nrcan-nfdb:10232,MB-2020-MB2020EA035,Manitoba,50.79833,-95.76917,22311,Canadian National Fire Database large-fire points,false,false
+2020,United States,1,August Complex,reported_name,mtbs:CA3966012280920200817,CA3966012280920200817,California,39.93762,-122.99685,1067970,MTBS Fire Occurrence Points,false,false
+2020,United States,2,Scu Lightning Complex,reported_name,mtbs:CA3742412156820200816,CA3742412156820200816,California,37.35197,-121.44835,405644,MTBS Fire Occurrence Points,false,false
+2020,United States,3,Creek,reported_name,mtbs:CA3720111927220200905,CA3720111927220200905,California,37.33327,-119.27585,381529,MTBS Fire Occurrence Points,false,false
+2021,Canada,1,Ea096,reported_name,nrcan-nfdb:13246,MB-2021-MB2021EA096,Manitoba,52.29641,-96.08561,671387,Canadian National Fire Database large-fire points,false,false
+2021,Canada,2,Ea044,reported_name,nrcan-nfdb:13174,MB-2021-MB2021EA044,Manitoba,52.00461,-99.1576,429041,Canadian National Fire Database large-fire points,false,false
+2021,Canada,3,21Hb-Bell,reported_name,nrcan-nfdb:10155,SK-2021-21HB-BELL,Saskatchewan,53.20558,-102.628,219443,Canadian National Fire Database large-fire points,false,false
+2021,United States,1,Dixie,reported_name,mtbs:CA3987612137920210714,CA3987612137920210714,California,40.21129,-121.04824,979722,MTBS Fire Occurrence Points,false,false
+2021,United States,2,Bootleg,reported_name,mtbs:OR4261612142120210706,OR4261612142120210706,Oregon,42.62786,-121.08084,413425,MTBS Fire Occurrence Points,false,false
+2021,United States,3,Caldor,reported_name,mtbs:CA3858612053820210815,CA3858612053820210815,California,38.70589,-120.31275,226739,MTBS Fire Occurrence Points,false,false
+2022,Canada,1,Battleship Mountain,reported_name,nrcan-nfdb:3628,BC-2022-2022-G72150,British Columbia,56.0043,-122.719,85877,Canadian National Fire Database large-fire points,false,false
+2022,Canada,2,Heather Lake,reported_name,nrcan-nfdb:3648,BC-2022-2022-V11746,British Columbia,49.0115,-120.7316,36992,Canadian National Fire Database large-fire points,false,false
+2022,Canada,3,One Ace Mountain,reported_name,nrcan-nfdb:3612,BC-2022-2022-R90436,British Columbia,59.7616,-129.4523,30468,Canadian National Fire Database large-fire points,false,false
+2022,United States,1,Hermits Peak,reported_name,mtbs:NM3571810539920220406,NM3571810539920220406,New Mexico,35.84036,-105.41228,351782,MTBS Fire Occurrence Points,false,false
+2022,United States,2,Black,reported_name,mtbs:NM3320410805920220514,NM3320410805920220514,New Mexico,33.2055,-107.88694,328399,MTBS Fire Occurrence Points,false,false
+2022,United States,3,Koktuli River,reported_name,mtbs:AK5989515609120220609,AK5989515609120220609,Alaska,59.96775,-156.06527,296617,MTBS Fire Occurrence Points,false,false
+2023,Canada,1,2023 Holdover DONNIE CREEK,reported_name,nrcan-nfdb:2730,BC-2023-2023-G80280,British Columbia,57.6187,-122.0123,1529761,Canadian National Fire Database large-fire points,false,false
+2023,Canada,2,2023 Holdover G90288,reported_name,nrcan-nfdb:2651,BC-2023-2023-G90288,British Columbia,59.9636,-120.9866,716787,Canadian National Fire Database large-fire points,false,false
+2023,Canada,3,2023 Holdover Ekwan Tower,reported_name,nrcan-nfdb:2720,BC-2023-2023-G92498,British Columbia,58.5786,-120.9371,679675,Canadian National Fire Database large-fire points,false,false
+2023,United States,1,York,reported_name,mtbs:CA3528611528620230728,CA3528611528620230728,California,35.30274,-115.20587,94728,MTBS Fire Occurrence Points,false,false
+2023,United States,2,Kelly,reported_name,mtbs:CA4185912384020230815,CA4185912384020230815,California,41.90792,-123.85209,90208,MTBS Fire Occurrence Points,false,false
+2023,United States,3,Pass,reported_name,mtbs:NM3340610828920230519,NM3340610828920230519,New Mexico,33.36116,-108.21629,66128,MTBS Fire Occurrence Points,false,false
+2024,Canada,1,Nogah Creek,reported_name,nrcan-nfdb:21144,BC-2024-2024-G90228,British Columbia,58.794,-121.6269,1256415,Canadian National Fire Database large-fire points,false,false
+2024,Canada,2,Patry Creek,reported_name,nrcan-nfdb:21147,BC-2024-2024-G90207,British Columbia,59.3103,-123.2825,422073,Canadian National Fire Database large-fire points,false,false
+2024,Canada,3,Sabina Lake,reported_name,nrcan-nfdb:21075,BC-2024-2024-R11204,British Columbia,53.5915,-126.2854,136610,Canadian National Fire Database large-fire points,false,false
+2024,United States,1,Park,reported_name,mtbs:CA3981912180320240724,CA3981912180320240724,California,40.11688,-121.79872,430768,MTBS Fire Occurrence Points,false,false
+2024,United States,2,Durkee,reported_name,mtbs:OR4454811747720240717,OR4454811747720240717,Oregon,44.38196,-117.4838,292919,MTBS Fire Occurrence Points,false,false
+2024,United States,3,Remington,reported_name,mtbs:WY4494210607120240822,WY4494210607120240822,Wyoming,45.17274,-106.33345,192465,MTBS Fire Occurrence Points,false,false
+2025,Canada,1,Pocket Knife Creek,reported_name,nrcan-nfdb:21258,BC-2025-2025-G80352,British Columbia,57.4485,-123.1818,369434,Canadian National Fire Database large-fire points,false,false
+2025,Canada,2,G90382,reported_name,nrcan-nfdb:21224,BC-2025-2025-G90382,British Columbia,59.3743,-120.0329,232420,Canadian National Fire Database large-fire points,false,false
+2025,Canada,3,Summit Lake (G90413),reported_name,nrcan-nfdb:21259,BC-2025-2025-G90413,British Columbia,58.7368,-124.5919,199765,Canadian National Fire Database large-fire points,false,false
+2025,United States,1,Cottonwood Peak,reported_name,mtbs:NV4139011620920250816,NV4139011620920250816,Nevada,41.49921,-116.23754,137796,MTBS Fire Occurrence Points,true,false
+2025,United States,2,Gifford,reported_name,mtbs:CA3507612015920250801,CA3507612015920250801,California,35.13166,-120.15165,130896,MTBS Fire Occurrence Points,true,false
+2025,United States,3,Red Canyon,reported_name,mtbs:WY4363010794620250814,WY4363010794620250814,Wyoming,43.59377,-107.83118,128476,MTBS Fire Occurrence Points,true,false
+2026,United States,1,Morrill,reported_name,mtbs:NE4147410215720260313,NE4147410215720260313,Nebraska,41.64088,-102.28321,645316,MTBS Fire Occurrence Points,true,false
+2026,United States,2,Cottonwood,reported_name,mtbs:NE4087210043320260315,NE4087210043320260315,Nebraska,40.8374,-100.34178,132350,MTBS Fire Occurrence Points,true,false
+2026,United States,3,Road 203,reported_name,mtbs:NE4184710041020260312,NE4184710041020260312,Nebraska,41.82394,-100.31217,36123,MTBS Fire Occurrence Points,true,false

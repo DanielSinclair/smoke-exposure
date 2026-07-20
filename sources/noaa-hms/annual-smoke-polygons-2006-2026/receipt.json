@@ -1,0 +1,132 @@
+{
+  "retrieved_at": "2026-07-20T19:07:58.240360+00:00",
+  "coverage_note": "NOAA HMS annual smoke-polygon bundles for the complete 2006-present screen. Processing uses the earlier monitor/HMS date as each year's common cutoff.",
+  "files": [
+    {
+      "url": "https://satepsanone.nesdis.noaa.gov/pub/FIRE/web/HMS/Smoke_Polygons/Shapefile/Annual_Bundles/hms_smoke2006.zip",
+      "local_path": "sources/noaa-hms/annual-smoke-polygons-2006-2026/downloads/hms_smoke2006.zip",
+      "bytes": 1814567,
+      "sha256": "8dff0e9d5b1331ff94c7b393148555ac904fcd89724a4668fea8a8aa7150acb0"
+    },
+    {
+      "url": "https://satepsanone.nesdis.noaa.gov/pub/FIRE/web/HMS/Smoke_Polygons/Shapefile/Annual_Bundles/hms_smoke2007.zip",
+      "local_path": "sources/noaa-hms/annual-smoke-polygons-2006-2026/downloads/hms_smoke2007.zip",
+      "bytes": 2321735,
+      "sha256": "eca2cb52e1883fa2ed6009409b5aba12a9054a85275ad102fa0d95bffaa0dca0"
+    },
+    {
+      "url": "https://satepsanone.nesdis.noaa.gov/pub/FIRE/web/HMS/Smoke_Polygons/Shapefile/Annual_Bundles/hms_smoke2008.zip",
+      "local_path": "sources/noaa-hms/annual-smoke-polygons-2006-2026/downloads/hms_smoke2008.zip",
+      "bytes": 2712420,
+      "sha256": "ed9fe3116e187b6949db09e91e8454d065c5982acbc0566b752dc324e3c29842"
+    },
+    {
+      "url": "https://satepsanone.nesdis.noaa.gov/pub/FIRE/web/HMS/Smoke_Polygons/Shapefile/Annual_Bundles/hms_smoke2009.zip",
+      "local_path": "sources/noaa-hms/annual-smoke-polygons-2006-2026/downloads/hms_smoke2009.zip",
+      "bytes": 2510068,
+      "sha256": "0e92cdd3d42891c53823e08b3dfa7c034483f147b855025a76633aa65dbf067e"
+    },
+    {
+      "url": "https://satepsanone.nesdis.noaa.gov/pub/FIRE/web/HMS/Smoke_Polygons/Shapefile/Annual_Bundles/hms_smoke2010.zip",
+      "local_path": "sources/noaa-hms/annual-smoke-polygons-2006-2026/downloads/hms_smoke2010.zip",
+      "bytes": 2911530,
+      "sha256": "bd605e39e5f8cc37de42a557895090ef377ab4d3cbe07c8068c3af838d3c4a48"
+    },
+    {
+      "url": "https://satepsanone.nesdis.noaa.gov/pub/FIRE/web/HMS/Smoke_Polygons/Shapefile/Annual_Bundles/hms_smoke2011.zip",
+      "local_path": "sources/noaa-hms/annual-smoke-polygons-2006-2026/downloads/hms_smoke2011.zip",
+      "bytes": 3879790,
+      "sha256": "7134cac97dbfb0c0bbc053c9d489b16d14939668be9f318a59d02d811bee7491"
+    },
+    {
+      "url": "https://satepsanone.nesdis.noaa.gov/pub/FIRE/web/HMS/Smoke_Polygons/Shapefile/Annual_Bundles/hms_smoke2012.zip",
+      "local_path": "sources/noaa-hms/annual-smoke-polygons-2006-2026/downloads/hms_smoke2012.zip",
+      "bytes": 3275628,
+      "sha256": "500499367dcaab2bb9aad3513c8642628607161ba03d79baf3e8ef8b39bc7d35"
+    },
+    {
+      "url": "https://satepsanone.nesdis.noaa.gov/pub/FIRE/web/HMS/Smoke_Polygons/Shapefile/Annual_Bundles/hms_smoke2013.zip",
+      "local_path": "sources/noaa-hms/annual-smoke-polygons-2006-2026/downloads/hms_smoke2013.zip",
+      "bytes": 2627692,
+      "sha256": "60bc9fa0f1752f83bff13df03ba897d9b8a916340098f170acb77a13df940c64"
+    },
+    {
+      "url": "https://satepsanone.nesdis.noaa.gov/pub/FIRE/web/HMS/Smoke_Polygons/Shapefile/Annual_Bundles/hms_smoke2014.zip",
+      "local_path": "sources/noaa-hms/annual-smoke-polygons-2006-2026/downloads/hms_smoke2014.zip",
+      "bytes": 2002705,
+      "sha256": "a8e3f310709b2beb9e5ced049dff643b7a3ba09888ea6e4e61bb2bfa3598eec6"
+    },
+    {
+      "url": "https://satepsanone.nesdis.noaa.gov/pub/FIRE/web/HMS/Smoke_Polygons/Shapefile/Annual_Bundles/hms_smoke2015.zip",
+      "local_path": "sources/noaa-hms/annual-smoke-polygons-2006-2026/downloads/hms_smoke2015.zip",
+      "bytes": 1688021,
+      "sha256": "8335bfcb61a765b2e742c09630f276001e223337574be3a44520c2c81c5da7bb"
+    },
+    {
+      "url": "https://satepsanone.nesdis.noaa.gov/pub/FIRE/web/HMS/Smoke_Polygons/Shapefile/Annual_Bundles/hms_smoke2016.zip",
+      "local_path": "sources/noaa-hms/annual-smoke-polygons-2006-2026/downloads/hms_smoke2016.zip",
+      "bytes": 2251831,
+      "sha256": "33616ee1f229351992d2986ceb7f313965681fe564d083c8a503267bc27d6633"
+    },
+    {
+      "url": "https://satepsanone.nesdis.noaa.gov/pub/FIRE/web/HMS/Smoke_Polygons/Shapefile/Annual_Bundles/hms_smoke2017.zip",
+      "local_path": "sources/noaa-hms/annual-smoke-polygons-2006-2026/downloads/hms_smoke2017.zip",
+      "bytes": 5188787,
+      "sha256": "d664ad531709ebb5f9323eefd0fb50305e466a58bf0c90b2d1be7b74b93449ed"
+    },
+    {
+      "url": "https://satepsanone.nesdis.noaa.gov/pub/FIRE/web/HMS/Smoke_Polygons/Shapefile/Annual_Bundles/hms_smoke2018.zip",
+      "local_path": "sources/noaa-hms/annual-smoke-polygons-2006-2026/downloads/hms_smoke2018.zip",
+      "bytes": 7828628,
+      "sha256": "534949c2713f0daffd9fd32d0b48975b61c786dc36d62140a91648d20093b83d"
+    },
+    {
+      "url": "https://satepsanone.nesdis.noaa.gov/pub/FIRE/web/HMS/Smoke_Polygons/Shapefile/Annual_Bundles/hms_smoke2019.zip",
+      "local_path": "sources/noaa-hms/annual-smoke-polygons-2006-2026/downloads/hms_smoke2019.zip",
+      "bytes": 7696224,
+      "sha256": "6ca2c7d4bebd3191e85bb1f6aa3ca998ba290028c4b234c2dc3f37ee917f46a3"
+    },
+    {
+      "url": "https://satepsanone.nesdis.noaa.gov/pub/FIRE/web/HMS/Smoke_Polygons/Shapefile/Annual_Bundles/hms_smoke2020.zip",
+      "local_path": "sources/noaa-hms/annual-smoke-polygons-2006-2026/downloads/hms_smoke2020.zip",
+      "bytes": 8507355,
+      "sha256": "336306a00fdbca0536d78a457205dbc63348a2892bea57d2500e9fce740fafd1"
+    },
+    {
+      "url": "https://satepsanone.nesdis.noaa.gov/pub/FIRE/web/HMS/Smoke_Polygons/Shapefile/Annual_Bundles/hms_smoke2021.zip",
+      "local_path": "sources/noaa-hms/annual-smoke-polygons-2006-2026/downloads/hms_smoke2021.zip",
+      "bytes": 5882666,
+      "sha256": "f5526f3fe703d0d9f2c90139d46c9560b85b66a76b18bee667d754ec476cebaa"
+    },
+    {
+      "url": "https://satepsanone.nesdis.noaa.gov/pub/FIRE/web/HMS/Smoke_Polygons/Shapefile/Annual_Bundles/hms_smoke2022.zip",
+      "local_path": "sources/noaa-hms/annual-smoke-polygons-2006-2026/downloads/hms_smoke2022.zip",
+      "bytes": 5449558,
+      "sha256": "9861aa1f003e4b2b45f414a7320e26352562c044ed82ee853b1a588381618869"
+    },
+    {
+      "url": "https://satepsanone.nesdis.noaa.gov/pub/FIRE/web/HMS/Smoke_Polygons/Shapefile/Annual_Bundles/hms_smoke2023.zip",
+      "local_path": "sources/noaa-hms/annual-smoke-polygons-2006-2026/downloads/hms_smoke2023.zip",
+      "bytes": 6271670,
+      "sha256": "82ba53f45cc426845936c0a56b3cef4a6d7fc66fc76e5ec0648351a5911a799c"
+    },
+    {
+      "url": "https://satepsanone.nesdis.noaa.gov/pub/FIRE/web/HMS/Smoke_Polygons/Shapefile/Annual_Bundles/hms_smoke2024.zip",
+      "local_path": "sources/noaa-hms/annual-smoke-polygons-2006-2026/downloads/hms_smoke2024.zip",
+      "bytes": 5050322,
+      "sha256": "8da3b235756f34a0492598e1ba578b6f5fb4fd6d59289df74f7ba8bd9d3e1a0b"
+    },
+    {
+      "url": "https://satepsanone.nesdis.noaa.gov/pub/FIRE/web/HMS/Smoke_Polygons/Shapefile/Annual_Bundles/hms_smoke2025.zip",
+      "local_path": "sources/noaa-hms/annual-smoke-polygons-2006-2026/downloads/hms_smoke2025.zip",
+      "bytes": 8979250,
+      "sha256": "ef24aa9f38382a47c732c601ba6dbfbb61b8860b124ad13a295ef1a4b0155ab7"
+    },
+    {
+      "url": "https://satepsanone.nesdis.noaa.gov/pub/FIRE/web/HMS/Smoke_Polygons/Shapefile/Annual_Bundles/hms_smoke2026.zip",
+      "local_path": "sources/noaa-hms/annual-smoke-polygons-2006-2026/downloads/hms_smoke2026.zip",
+      "bytes": 11577418,
+      "sha256": "4e3d6376589d573311eb8de5ed2d9b5105dfd1f1a6b6ea63ee59bdfd334a84b2"
+    }
+  ]
+}

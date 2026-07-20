@@ -1,0 +1,58 @@
+{
+  "retrieved_at": "2026-07-20T04:48:01.901296+00:00",
+  "snapshot_date": "2026-07-20",
+  "source_url": "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/InFORM_FireOccurrence_Public/FeatureServer/0",
+  "service_item_id": "60a94840152b4a89bec467a9f052f135",
+  "layer_name": "Incidents",
+  "layer_last_edit_epoch_ms": 1784522749603,
+  "query": {
+    "where": "CalendarYear BETWEEN 2021 AND 2026 AND IncidentTypeCategory = 'WF'",
+    "out_fields": [
+      "OBJECTID",
+      "GlobalID",
+      "FORID",
+      "UniqueFireIdentifier",
+      "LocalIncidentIdentifier",
+      "FireDiscoveryDateTime",
+      "CalendarYear",
+      "IncidentName",
+      "IncidentSize",
+      "CalculatedAcres",
+      "FinalAcres",
+      "InitialLatitude",
+      "InitialLongitude",
+      "POOState",
+      "POOCounty",
+      "POOFips",
+      "FireCauseID",
+      "ADSPermissionState",
+      "FinalFireReportApprovedDate",
+      "Status",
+      "CreatedBySystem",
+      "CreatedOnDateTime",
+      "ModifiedOnDateTime"
+    ],
+    "return_geometry": false
+  },
+  "object_id_count": 565768,
+  "record_count": 565764,
+  "missing_object_id_count": 4,
+  "missing_object_ids": [
+    9374428,
+    9374429,
+    9374430,
+    9374533
+  ],
+  "records_by_year": {
+    "2021": 100458,
+    "2022": 124506,
+    "2023": 94805,
+    "2024": 102323,
+    "2025": 109087,
+    "2026": 34585
+  },
+  "coverage_note": "Public InFORM wildfire occurrence records, including approved and unapproved records. Certification status is retained; counts are source-covered and do not replace NIFC official annual statistics.",
+  "local_path": "sources/nifc-inform/2026-07-20/wildfire_records_2021_2026.ndjson.gz",
+  "bytes": 58336255,
+  "sha256": "318d994e0c3cb8c8b052ed55fedabcace294c80178aca00fb179814f8d9b1d50"
+}

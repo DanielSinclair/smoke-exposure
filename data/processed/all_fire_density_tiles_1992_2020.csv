@@ -1,0 +1,284 @@
+x,y,year_start,year_end,fire_count,burned_acres,us_fire_count,canada_fire_count,regions,source_ids,coverage_note
+1,5,1992,2020,1,17,1,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+2,5,1992,2020,5,105128,5,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+3,5,1992,2020,16,9569,16,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+4,5,1992,2020,11,260861,11,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+5,5,1992,2020,5,2800,5,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+9,5,1992,2020,17,695,0,17,NT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+10,5,1992,2020,9,20044,0,9,NT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+0,6,1992,2020,2,14572,2,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+1,6,1992,2020,66,182399,66,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+2,6,1992,2020,210,196552,210,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+3,6,1992,2020,169,294039,169,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+4,6,1992,2020,196,911325,196,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+5,6,1992,2020,149,1441669,149,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+6,6,1992,2020,254,1963366,254,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+7,6,1992,2020,111,1189352,32,79,AK; PC; YT,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+8,6,1992,2020,172,792922,0,172,NT; YT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+9,6,1992,2020,225,1721624,0,225,NT; YT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+10,6,1992,2020,100,266369,0,100,NT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+11,6,1992,2020,46,144880,0,46,NT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+12,6,1992,2020,2,2390,0,2,NT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+13,6,1992,2020,1,321,0,1,NT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+0,7,1992,2020,5,108,5,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+1,7,1992,2020,111,160327,111,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+2,7,1992,2020,250,731668,250,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+3,7,1992,2020,496,2743111,496,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+4,7,1992,2020,442,5825030,442,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+5,7,1992,2020,3042,4563799,3042,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+6,7,1992,2020,856,3952554,856,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+7,7,1992,2020,440,2443626,130,310,AK; YT,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+8,7,1992,2020,221,1492410,0,221,NT; YT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+9,7,1992,2020,133,1584192,0,133,NT; YT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+10,7,1992,2020,372,1860977,0,372,NT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+11,7,1992,2020,310,1959721,0,310,NT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+12,7,1992,2020,126,848213,0,126,NT; PC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+13,7,1992,2020,254,1547867,0,254,NT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+14,7,1992,2020,40,31646,0,40,NT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+15,7,1992,2020,1,119,0,1,NT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+0,8,1992,2020,1,0,1,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+1,8,1992,2020,107,113801,107,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+2,8,1992,2020,293,2106871,293,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+3,8,1992,2020,514,3529963,514,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+4,8,1992,2020,461,1830265,461,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+5,8,1992,2020,2452,372418,2452,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+6,8,1992,2020,1086,1150247,1086,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+7,8,1992,2020,576,2893477,117,459,AK; YT,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+8,8,1992,2020,647,3068531,0,647,YT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+9,8,1992,2020,294,1312732,0,294,NT; YT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+10,8,1992,2020,49,253877,0,49,NT; PC; YT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+11,8,1992,2020,449,3197179,0,449,NT; PC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+12,8,1992,2020,305,8048428,0,305,NT; PC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+13,8,1992,2020,927,5406590,0,927,NT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+14,8,1992,2020,598,3426438,0,598,NT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+15,8,1992,2020,141,2236056,0,141,NT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+16,8,1992,2020,16,80578,0,16,NT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+24,8,1992,2020,1,0,0,1,QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+1,9,1992,2020,56,221745,56,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+2,9,1992,2020,169,382077,169,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+3,9,1992,2020,171,628244,171,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+4,9,1992,2020,1601,533942,1601,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+5,9,1992,2020,746,12060,746,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+6,9,1992,2020,77,78456,77,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+7,9,1992,2020,28,7711,5,23,AK; BC; PC; YT,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+8,9,1992,2020,850,275382,119,731,AK; BC; PC; YT,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+9,9,1992,2020,217,371014,0,217,BC; YT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+10,9,1992,2020,437,2330480,0,437,BC; NT; PC; YT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+11,9,1992,2020,605,633599,0,605,BC; NT; PC; YT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+12,9,1992,2020,1572,3187342,0,1572,AB; BC; NT,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+13,9,1992,2020,1566,3061618,0,1566,AB; BC; NT; PC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+14,9,1992,2020,1561,6526266,0,1561,AB; NT; PC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+15,9,1992,2020,795,8139210,0,795,NT; SK,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+16,9,1992,2020,567,3366600,0,567,NT; SK,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+17,9,1992,2020,54,1276501,0,54,MB; NT; PC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+18,9,1992,2020,16,180403,0,16,MB,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+2,10,1992,2020,18,22383,18,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+3,10,1992,2020,44,45506,44,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+4,10,1992,2020,79,8750,79,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+8,10,1992,2020,373,238,373,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+9,10,1992,2020,239,601378,56,183,AK; BC,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+10,10,1992,2020,121,319810,0,121,BC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+11,10,1992,2020,697,312278,0,697,BC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+12,10,1992,2020,2743,960683,0,2743,AB; BC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+13,10,1992,2020,5051,2766867,0,5051,AB; BC; PC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+14,10,1992,2020,2771,5631443,0,2771,AB; PC; SK,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+15,10,1992,2020,954,10952710,0,954,SK,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+16,10,1992,2020,1262,6804004,0,1262,MB; SK,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+17,10,1992,2020,981,4962026,0,981,MB; SK,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+18,10,1992,2020,257,4698850,0,257,MB,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+19,10,1992,2020,116,337138,0,116,MB; PC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+20,10,1992,2020,3,10395,0,3,MB; ON,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+25,10,1992,2020,11,68898,0,11,QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+26,10,1992,2020,1,3089,0,1,NL,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+27,10,1992,2020,1,610,0,1,NL,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+1,11,1992,2020,2,18,2,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+2,11,1992,2020,7,357,7,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+9,11,1992,2020,203,427,186,17,AK; BC,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+10,11,1992,2020,1806,120620,0,1806,BC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+11,11,1992,2020,2576,620408,0,2576,BC; PC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+12,11,1992,2020,3416,233775,0,3416,AB; BC; PC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+13,11,1992,2020,7215,2270877,0,7215,AB; BC; PC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+14,11,1992,2020,5840,1615852,0,5840,AB; SK,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+15,11,1992,2020,3935,6433154,0,3935,PC; SK,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+16,11,1992,2020,4313,5863361,0,4313,PC; SK,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+17,11,1992,2020,2543,2207394,0,2543,MB; SK,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+18,11,1992,2020,2181,2367429,0,2181,MB,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+19,11,1992,2020,542,1201349,0,542,MB; ON,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+20,11,1992,2020,240,332755,0,240,MB; ON,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+21,11,1992,2020,89,421251,0,89,ON,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+22,11,1992,2020,17,421075,0,17,QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+23,11,1992,2020,69,1094483,0,69,QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+24,11,1992,2020,58,109431,0,58,QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+25,11,1992,2020,21,147806,0,21,NL; QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+26,11,1992,2020,9,65463,0,9,NL; QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+27,11,1992,2020,42,452125,0,42,NL,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+28,11,1992,2020,2,29033,0,2,NL,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+0,12,1992,2020,2,180,2,0,AK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+8,12,1992,2020,1,0,0,1,BC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+9,12,1992,2020,68,486,0,68,BC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+10,12,1992,2020,414,996988,0,414,BC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+11,12,1992,2020,5632,4262935,0,5632,BC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+12,12,1992,2020,7128,359305,0,7128,AB; BC; PC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+13,12,1992,2020,6349,266042,0,6349,AB; BC; PC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+14,12,1992,2020,35,34946,0,35,PC; SK,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+15,12,1992,2020,1427,461666,0,1427,PC; SK,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+16,12,1992,2020,2416,500604,0,2416,PC; SK,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+17,12,1992,2020,1959,503465,0,1959,MB; SK,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+18,12,1992,2020,2427,2691677,0,2427,MB; ON,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+19,12,1992,2020,1615,3149536,0,1615,MB; ON,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+20,12,1992,2020,896,1683572,0,896,ON,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+21,12,1992,2020,277,333089,0,277,ON,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+22,12,1992,2020,239,1623398,0,239,ON; QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+23,12,1992,2020,451,3643960,0,451,QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+24,12,1992,2020,148,2081805,0,148,QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+25,12,1992,2020,180,2275275,0,180,NL; QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+26,12,1992,2020,83,384772,0,83,NL; QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+27,12,1992,2020,116,288804,0,116,NL; QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+28,12,1992,2020,21,50034,0,21,NL; PC; QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+0,13,1992,2020,1,1,0,1,PC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+8,13,1992,2020,1,0,0,1,BC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+9,13,1992,2020,2,0,0,2,BC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+10,13,1992,2020,659,20245,0,659,BC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+11,13,1992,2020,4368,204303,1,4367,BC; PC; WA,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+12,13,1992,2020,16245,1472031,0,16245,BC; PC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+13,13,1992,2020,12636,922788,0,12636,AB; BC; PC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+14,13,1992,2020,139,15598,0,139,AB; PC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+15,13,1992,2020,268,40720,0,268,PC; SK,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+16,13,1992,2020,146,12451,0,146,SK,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+17,13,1992,2020,188,134906,0,188,MB; PC; SK,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+18,13,1992,2020,4425,1101383,2,4423,MB; MN; ON,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+19,13,1992,2020,4994,949203,0,4994,ON,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+20,13,1992,2020,3163,1914120,0,3163,ON,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+21,13,1992,2020,982,78654,0,982,ON,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+22,13,1992,2020,716,811667,0,716,ON; QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+23,13,1992,2020,1366,2403937,0,1366,QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+24,13,1992,2020,1505,2267730,0,1505,QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+25,13,1992,2020,1225,312068,0,1225,NB; QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+26,13,1992,2020,363,540635,0,363,QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+27,13,1992,2020,71,458935,0,71,NL; QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+28,13,1992,2020,452,7338,0,452,NL; PC; QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+29,13,1992,2020,15,54,0,15,NL,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+9,14,1992,2020,1,0,0,1,BC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+10,14,1992,2020,2,0,0,2,BC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+11,14,1992,2020,7902,33351,6903,999,BC; PC; WA,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+12,14,1992,2020,17604,5611031,17577,27,BC; SK; WA,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+13,14,1992,2020,33878,1418008,33847,31,BC; ID; MT; WA,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+14,14,1992,2020,11945,1679490,11942,3,AB; ME; MT; PC,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+15,14,1992,2020,4086,1191239,4084,2,MT; PC,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+16,14,1992,2020,5849,294998,5847,2,MT; ND; PC; SD,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+17,14,1992,2020,13748,217664,13748,0,NC; ND,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+18,14,1992,2020,25343,824995,25289,54,MN; MS; ND; ON,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+19,14,1992,2020,14035,448145,12392,1643,MI; MN; ON; WI,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+20,14,1992,2020,1883,44372,646,1237,MI; MN; ON; PC,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+21,14,1992,2020,2989,315923,84,2905,MI; ON; PC,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+22,14,1992,2020,5434,300155,0,5434,ON; QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+23,14,1992,2020,2080,678453,0,2080,QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+24,14,1992,2020,3218,447590,0,3218,PC; QC; SK,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+25,14,1992,2020,4376,25565,1326,3050,ME; NB; QC,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+26,14,1992,2020,2910,86672,0,2910,NB; PC; PE; QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+27,14,1992,2020,389,5259,0,389,NL; NS; PC; QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+28,14,1992,2020,552,37719,0,552,NL; PC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+29,14,1992,2020,1273,7942,0,1273,NL; PC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+11,15,1992,2020,10246,586952,10246,0,OR; WA,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+12,15,1992,2020,27907,4468342,27907,0,OR; VA; WA,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+13,15,1992,2020,22604,7534015,22604,0,ID; MT; OR; WA,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+14,15,1992,2020,7399,1415559,7399,0,ID; MT; WY,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+15,15,1992,2020,12487,2952237,12487,0,AL; MT; WY,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+16,15,1992,2020,7875,1016812,7875,0,MT; ND; SD; WY,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+17,15,1992,2020,12027,536761,12027,0,NC; ND; SC; SD,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+18,15,1992,2020,5897,115783,5897,0,MN; ND; SD,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+19,15,1992,2020,21207,129834,21207,0,MI; MN; WI,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+20,15,1992,2020,17882,41214,17882,0,MI; WI,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+21,15,1992,2020,7710,75756,7287,423,MI; ON; PC,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+22,15,1992,2020,4785,43474,0,4785,ON; PC; QC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+23,15,1992,2020,9334,32044,4819,4515,NY; ON; PC; QC,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+24,15,1992,2020,8048,13753,5379,2669,ME; NH; NY; PC; QC; VT,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+25,15,1992,2020,13614,31404,10526,3088,MD; ME; NB; NS,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+26,15,1992,2020,6482,32948,0,6482,NB; NS; PC; PE,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+27,15,1992,2020,1937,7953,0,1937,NS; PC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+11,16,1992,2020,26233,2765924,26233,0,CA; OR,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+12,16,1992,2020,18687,3431136,18687,0,CA; NV; OR,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+13,16,1992,2020,10904,10313638,10904,0,ID; NV; OR; UT,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+14,16,1992,2020,8467,4007128,8467,0,ID; UT; WY,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+15,16,1992,2020,6509,829071,6509,0,WI; WY,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+16,16,1992,2020,16606,1808313,16606,0,NE; SC; SD; WY,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+17,16,1992,2020,9216,666494,9216,0,NE; SD,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+18,16,1992,2020,5333,95503,5333,0,IA; MN; NE; SD,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+19,16,1992,2020,6357,45741,6357,0,IA; IL; MN; WI,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+20,16,1992,2020,9945,43357,9945,0,IL; IN; MI; WI,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+21,16,1992,2020,7811,24537,7780,31,IN; MI; OH; ON; PC,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+22,16,1992,2020,10327,11813,10297,30,NY; OH; ON; PA,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+23,16,1992,2020,32643,52610,32641,2,NY; ON; PA; PC; WY,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+24,16,1992,2020,32895,44982,32895,0,CT; MA; ME; NH; NY; RI; VT,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+25,16,1992,2020,553,1170,398,155,MA; ME; NS,nrcan-nfdb-all-fire-points-2026-06-08;usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+26,16,1992,2020,849,16230,0,849,NS; PC,nrcan-nfdb-all-fire-points-2026-06-08,FPA FOD and NFDB are source-covered but not cross-country comparable
+11,17,1992,2020,31077,4093457,31077,0,CA,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+12,17,1992,2020,34025,4589461,34025,0,CA; NV,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+13,17,1992,2020,6692,5388306,6692,0,NV; UT,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+14,17,1992,2020,15727,2805553,15727,0,UT; WY,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+15,17,1992,2020,20354,1733816,20354,0,CO; UT; WY,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+16,17,1992,2020,24588,827523,24588,0,CO; KS; NE; WY,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+17,17,1992,2020,3250,286226,3250,0,KS; NE,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+18,17,1992,2020,8708,248513,8708,0,IA; KS; MO; NE,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+19,17,1992,2020,2730,57054,2730,0,IA; IL; MO,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+20,17,1992,2020,1461,9972,1461,0,IL; IN,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+21,17,1992,2020,2135,7575,2135,0,IN; OH; WV,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+22,17,1992,2020,11948,38287,11948,0,MD; OH; PA; VA; WV,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+23,17,1992,2020,50512,244252,50512,0,DE; MD; NJ; NY; PA; VA; WV,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+24,17,1992,2020,29514,28544,29514,0,CT; MA; NJ; NY; RI,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+25,17,1992,2020,4,2,4,0,MA,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+11,18,1992,2020,15221,1310881,15221,0,CA,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+12,18,1992,2020,76139,3489237,76139,0,CA; NV; WA,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+13,18,1992,2020,4758,1588840,4758,0,AZ; CA; NV; UT,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+14,18,1992,2020,15425,2169666,15425,0,AZ; NV; UT,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+15,18,1992,2020,25446,721211,25446,0,AZ; CO; NJ; NM; UT,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+16,18,1992,2020,14515,1299116,14515,0,CO; KS; NM; OK; TX,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+17,18,1992,2020,2289,1964575,2289,0,KS; OK; TX,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+18,18,1992,2020,15823,1068829,15823,0,KS; MO; OK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+19,18,1992,2020,20555,492179,20555,0,IL; MO,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+20,18,1992,2020,4944,61202,4944,0,IL; IN; KY; MO; TN,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+21,18,1992,2020,38662,1444902,38662,0,IN; KY; OH; TN; VA; WV,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+22,18,1992,2020,29267,686428,29267,0,KY; NC; OH; TN; VA; WV,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+23,18,1992,2020,10477,128937,10477,0,DC; DE; MD; NC; NJ; VA,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+12,19,1992,2020,34378,4907146,34378,0,CA,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+13,19,1992,2020,23064,1566719,23064,0,AZ; CA; KS; NV,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+14,19,1992,2020,34232,2250499,34232,0,AZ,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+15,19,1992,2020,20059,758377,20059,0,AZ; NJ; NM; UT,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+16,19,1992,2020,8055,1699873,8055,0,NM; TX,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+17,19,1992,2020,12058,3845688,12058,0,OK; TX,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+18,19,1992,2020,46494,3054780,46494,0,AR; MO; OH; OK; OR,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+19,19,1992,2020,25134,470133,25134,0,AR; MO; MS; OK,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+20,19,1992,2020,38208,412091,38208,0,AL; MN; MO; MS; TN,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+21,19,1992,2020,76053,943197,76053,0,AL; GA; KY; NC; NY; SC; TN,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+22,19,1992,2020,115743,505154,115743,0,NC; SC; TN,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+23,19,1992,2020,20989,332529,20989,0,NC,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+12,20,1992,2020,1792,19140,1792,0,CA,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+13,20,1992,2020,39831,2186101,39831,0,AZ; CA,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+14,20,1992,2020,48657,2782427,48657,0,AR; AZ,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+15,20,1992,2020,14983,4032152,14983,0,AR; AZ; NM; TX,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+16,20,1992,2020,12150,3062857,12150,0,NM; TX,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+17,20,1992,2020,23669,2643940,23669,0,TX,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+18,20,1992,2020,74928,888659,74928,0,AR; LA; OK; TX,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+19,20,1992,2020,28024,339355,28024,0,AR; LA; MS; TX,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+20,20,1992,2020,59342,652690,59342,0,AL; MS,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+21,20,1992,2020,111177,595004,111177,0,AL; GA; SC,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+22,20,1992,2020,72787,531407,72787,0,GA; NC; SC,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+23,20,1992,2020,11,20,11,0,NC,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+14,21,1992,2020,1347,286704,1347,0,AZ,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+15,21,1992,2020,460,298865,460,0,AZ; NM,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+16,21,1992,2020,1366,1288117,1366,0,TX,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+17,21,1992,2020,12852,1236106,12852,0,TX,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+18,21,1992,2020,35412,927994,35412,0,TX,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+19,21,1992,2020,32360,780735,32360,0,LA; MS; TX,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+20,21,1992,2020,53089,1003622,53089,0,AL; FL; LA; MS,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+21,21,1992,2020,67651,2126374,67651,0,AL; FL; GA,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+22,21,1992,2020,19333,408193,19333,0,FL; GA,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+16,22,1992,2020,4,117,4,0,TX,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+17,22,1992,2020,4875,419008,4875,0,TX,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+18,22,1992,2020,4588,264709,4588,0,TX,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+21,22,1992,2020,11368,221492,11368,0,FL,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+22,22,1992,2020,28957,1278092,28957,0,FL,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+17,23,1992,2020,4553,43828,4553,0,TX,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+18,23,1992,2020,1248,19460,1248,0,TX,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+21,23,1992,2020,9,21,9,0,FL,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable
+22,23,1992,2020,9165,2427722,9165,0,FL,usfs-fpa-fod-1992-2020,FPA FOD and NFDB are source-covered but not cross-country comparable

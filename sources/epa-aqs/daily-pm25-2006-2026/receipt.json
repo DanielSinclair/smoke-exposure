@@ -1,0 +1,258 @@
+{
+  "retrieved_at": "2026-07-20T19:26:22.406084+00:00",
+  "coverage_note": "EPA AQS daily PM2.5 annual snapshots for parameters 88101 and 88502. Files are revisionable; 2026 ends at the latest available AQS monitor date.",
+  "files": [
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88101_2006.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88101_2006.zip",
+      "bytes": 1552596,
+      "sha256": "9ff9662b42afd17dc71784b689549a0fb377de94d93981f288fd1457b4e5bd8e"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88101_2007.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88101_2007.zip",
+      "bytes": 1631141,
+      "sha256": "5839cf7712eaaf10e77d6f58093cc59de87f6c200ef382d0b7a6d0ae0ad8c096"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88101_2008.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88101_2008.zip",
+      "bytes": 1628329,
+      "sha256": "a50ba0464534c1b8a681229f0ff07adc6a4e3ff716d8701d88d194bc52672cba"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88101_2009.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88101_2009.zip",
+      "bytes": 2122672,
+      "sha256": "5d41fc01218cb6cedc12d2f10657a10afe0c2257e64e24a8ce54eac3e7215a26"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88101_2010.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88101_2010.zip",
+      "bytes": 2602558,
+      "sha256": "d01e1b4e76ed963b0fdfc84722b2772a440561001a9145898e50daa48344346a"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88101_2011.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88101_2011.zip",
+      "bytes": 2876665,
+      "sha256": "cd08b23cc4db39ed6c74cc9898efba0742ae0d71497ad1d7df46e0f308214d6d"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88101_2012.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88101_2012.zip",
+      "bytes": 3112357,
+      "sha256": "1bf821445dbc73654eaccaf8cc5d9ae0464905e80913390a74583c4cb9a3c2c7"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88101_2013.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88101_2013.zip",
+      "bytes": 3588890,
+      "sha256": "2c4c725ffd3c08966a1a3a96eaf13ac247d17ebcbf51d36bfa673ce62d20cd4e"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88101_2014.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88101_2014.zip",
+      "bytes": 3945753,
+      "sha256": "08ca941413bbd620e3ccbebee44fb88442848098c6a7584b995bfbc2d5bdbda6"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88101_2015.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88101_2015.zip",
+      "bytes": 4210592,
+      "sha256": "8366bc742d7c449840a41bbcab34c4916dbcf92647a268624d6ad4ee603d8d2a"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88101_2016.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88101_2016.zip",
+      "bytes": 4552673,
+      "sha256": "bb70b9a2050de500d5dde412d46045feca5c9699848a2a8111e166c47cd3fd05"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88101_2017.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88101_2017.zip",
+      "bytes": 5188737,
+      "sha256": "0a09c955d4a84e604acfb3d3bfc864a4bff883eaca9ac1deb208563204256d74"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88101_2018.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88101_2018.zip",
+      "bytes": 6325876,
+      "sha256": "a82e60b1bd486ebd23adacedd4f1822a41cda0985194b3a21898e135cdf468e5"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88101_2019.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88101_2019.zip",
+      "bytes": 7315771,
+      "sha256": "88b9b0b1bbd0c7545ffc07959a5ecbd4c6fbe951c67ea648cef70cafe956af53"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88101_2020.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88101_2020.zip",
+      "bytes": 7911864,
+      "sha256": "18283fe4ffceb53e3091a7fa7de57a2d5b925ce3d56a08d3518021e00212a3ec"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88101_2021.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88101_2021.zip",
+      "bytes": 9003762,
+      "sha256": "c3f876f8cd898c3bd921db45e1a2dd39c52ed7f5bb48e82a600066a434f6afd4"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88101_2022.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88101_2022.zip",
+      "bytes": 9687295,
+      "sha256": "82f5035943a447f8edebf1f0b3f774e08b81a250a86295871a8574726d6b2f94"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88101_2023.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88101_2023.zip",
+      "bytes": 9919616,
+      "sha256": "4b40502e8147419643a1120c666c4aa952633094f21f65475844172bcc78833b"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88101_2024.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88101_2024.zip",
+      "bytes": 8405604,
+      "sha256": "409c2d884935bd0a4099d640b7c526ecb0af1d3aac049697e34c2f9f69dbe91d"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88101_2025.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88101_2025.zip",
+      "bytes": 8647326,
+      "sha256": "cc8cb80bcc0317705202d12a472918438b8bee60316f54777d6f748c58ac2661"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88101_2026.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88101_2026.zip",
+      "bytes": 2256944,
+      "sha256": "c6900edda13ee5d451abb393f961ae427e76506bb87931967db54150143c91d5"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88502_2006.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88502_2006.zip",
+      "bytes": 2866770,
+      "sha256": "9dc1d099634ec2319455ce3311f77c328c71af8e06926aa2f0fd4b251c4fa578"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88502_2007.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88502_2007.zip",
+      "bytes": 3595473,
+      "sha256": "a99729bb481275924d7ef34a88e8e90a9eaf4f80fbee3d195bd186a3f18657d4"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88502_2008.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88502_2008.zip",
+      "bytes": 3898052,
+      "sha256": "ce9ca7a7a1aef0169ae519cf58bfd193122031ee1cd5b671816be18df1735780"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88502_2009.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88502_2009.zip",
+      "bytes": 3995507,
+      "sha256": "b975ae28ce2f5025a9796a9e651e490257c0d8624c2dbc8d3ba45de1c8c6fcba"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88502_2010.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88502_2010.zip",
+      "bytes": 4122666,
+      "sha256": "1d3d63102aaf909d437a17bc285e2b79e7889e1c21fd039730c1f4f9d1c01ad3"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88502_2011.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88502_2011.zip",
+      "bytes": 4212789,
+      "sha256": "0cb303c0e397502a9612d584c51f3a8d1607b49fd4ed49f761499e544f528501"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88502_2012.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88502_2012.zip",
+      "bytes": 4253204,
+      "sha256": "fb09191be0ef05e51705a61945abb627c0b8ab6640efa68c4204ab6b6cd56801"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88502_2013.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88502_2013.zip",
+      "bytes": 4057558,
+      "sha256": "5a913c664403c58ca4e039d9bbfb8478b10235fabf682d6c69fe36f9b79399f7"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88502_2014.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88502_2014.zip",
+      "bytes": 3838397,
+      "sha256": "1fe2a376ebb37965974c6356872cd248fa03a32b35a2d4b9c9fc7ad9d231e689"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88502_2015.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88502_2015.zip",
+      "bytes": 3681595,
+      "sha256": "1acab868074d28829ea0cf59180031c702ca970b1dec1eac00ffef0de626b32a"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88502_2016.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88502_2016.zip",
+      "bytes": 3314558,
+      "sha256": "9c862437cf322c36c760bab0f863fe0ec397121d9e4f83da2196859ab2604a8e"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88502_2017.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88502_2017.zip",
+      "bytes": 3160032,
+      "sha256": "0152c51056a3c36d4dd0ccda84afd8df775db3e3f9a440a1b9b409a058158500"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88502_2018.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88502_2018.zip",
+      "bytes": 2864638,
+      "sha256": "38f6b79cae0a40f1d47f443bb2c2121f2d9fc238f137f8e589ec9c192a443e37"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88502_2019.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88502_2019.zip",
+      "bytes": 2646702,
+      "sha256": "1dcc4d3aeb71c1dd62c315ca846915b75f685f07b5badbaa21fa77c0f28c2c4d"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88502_2020.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88502_2020.zip",
+      "bytes": 2553688,
+      "sha256": "580bce56a7a70e099eabc3b9a8351f9f2170d5ea525cf9f6a5975939f059bb9a"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88502_2021.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88502_2021.zip",
+      "bytes": 2488642,
+      "sha256": "b41a967be3649f0127479af913683923b1c427c8876f9422ed5a6cacd78b6bb5"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88502_2022.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88502_2022.zip",
+      "bytes": 2235951,
+      "sha256": "60b53894b729e144273881a9779711188d384a975169cc718149f7f3fe0977bc"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88502_2023.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88502_2023.zip",
+      "bytes": 1986639,
+      "sha256": "c48245268c01c99f0ba9dcb3c3699c5fe372095f51fa67ab5586ac99e8a1f362"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88502_2024.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88502_2024.zip",
+      "bytes": 1818453,
+      "sha256": "bf0b857520d456778405cea74c9fdf4ccc18a67a009585f3904bf15a887e83a2"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88502_2025.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88502_2025.zip",
+      "bytes": 1649044,
+      "sha256": "900ae6d8c6decb12f962179653f586c84e9f4eb9de6893116fd139295eacc0e7"
+    },
+    {
+      "url": "https://aqs.epa.gov/aqsweb/airdata/daily_88502_2026.zip",
+      "local_path": "sources/epa-aqs/daily-pm25-2006-2026/downloads/daily_88502_2026.zip",
+      "bytes": 353989,
+      "sha256": "e97e81cea2aa6c6b346cc702f9833d113823b207091aa4bd3d15f44522734c85"
+    }
+  ]
+}

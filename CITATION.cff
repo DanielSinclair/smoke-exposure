@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this project, cite the software and the controlling source datasets listed in the source manifest."
+title: "U.S. Wildfire Smoke Exposure Trend"
+type: software
+authors:
+  - family-names: Sinclair
+    given-names: Daniel
+version: 0.1.0
+date-released: 2026-07-20
+repository-code: "https://github.com/DanielSinclair/smoke-exposure"
+url: "https://danielsinclair.github.io/smoke-exposure/"
+license: MIT

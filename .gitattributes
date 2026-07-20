@@ -1,0 +1,2 @@
+# Preserve the Census Bureau's exact CRLF snapshot and avoid noisy line diffs.
+/sources/census/2020/co-est2020-alldata.csv binary

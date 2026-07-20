@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-07-20T03:50:00Z",
+  "candidate_date": "2026-07-19",
+  "decision": "reject_partial_airnow_day",
+  "latest_complete_common_cutoff": "2026-07-18",
+  "reason": "The July 19 AirNow archive exists but has not completed nationwide local-day coverage; NOAA HMS and NRCan data are available, while the July 19 NIFC IMSR is not.",
+  "airnow": {
+    "candidate_url": "https://files.airnowtech.org/airnow/2026/20260719/daily_data_v2.dat",
+    "candidate_http_status": 200,
+    "candidate_last_modified": "Sun, 19 Jul 2026 23:50:57 GMT",
+    "candidate_bytes": 298490,
+    "candidate_rows": 2221,
+    "candidate_retained_us_pm25_sites": 296,
+    "candidate_state_or_dc_codes": 24,
+    "prior_complete_date": "2026-07-18",
+    "prior_complete_bytes": 669792,
+    "prior_complete_rows": 4997,
+    "prior_complete_retained_us_pm25_sites": 831,
+    "prior_complete_state_or_dc_codes": 49
+  },
+  "noaa_hms": {
+    "candidate_url": "https://satepsanone.nesdis.noaa.gov/pub/FIRE/web/HMS/Smoke_Polygons/Shapefile/2026/07/hms_smoke20260719.zip",
+    "candidate_http_status": 200,
+    "candidate_bytes": 129551
+  },
+  "nifc": {
+    "candidate_url": "https://www.nifc.gov/sites/default/files/NICC/1-Incident%20Information/IMSR/2026/July/IMSR_CY26_07192026_0.pdf",
+    "candidate_http_status": 404
+  },
+  "nrcan_cwfif": {
+    "candidate_url": "https://api.cwfif.nrcan.gc.ca/reported-fire-stats/ytd/by-response-type?date=2026-07-19",
+    "candidate_http_status": 200,
+    "candidate_fire_count": 3876,
+    "candidate_burned_area_hectares": 2938333.6
+  },
+  "july_19_status": {
+    "airnow_daily_http_status": 200,
+    "airnow_daily_complete": false,
+    "noaa_hms_daily_available": true,
+    "nifc_imsr_http_status": 404,
+    "nrcan_cwfif_available": true
+  }
+}

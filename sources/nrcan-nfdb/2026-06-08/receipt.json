@@ -1,0 +1,10 @@
+{
+  "dataset": "Canadian National Fire Database large-fire point records",
+  "source_url": "https://cwfis.cfs.nrcan.gc.ca/downloads/nfdb/fire_pnt/current_version/NFDB_point_large_fires_txt.zip",
+  "retrieved_at": "2026-07-19T05:07:45Z",
+  "archive_member": "NFDB_point_20260529_large_fires.txt",
+  "bytes": 17477407,
+  "sha256": "e58b842c67b256c31dd76f02cf92a83ba45cb0d79cf21f8ebde216951ec21017",
+  "license": "Open Government Licence - Canada",
+  "pipeline_role": "Annual named or identified large-fire context only; not smoke-source attribution"
+}

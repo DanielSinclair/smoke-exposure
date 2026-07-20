@@ -1,0 +1,29 @@
+{
+  "dataset_doi": "10.5061/dryad.k0p2ngfhv",
+  "dataset_version_id": 427497,
+  "checked_at": "2026-07-20T19:08:51Z",
+  "license": "CC0-1.0",
+  "files": [
+    {
+      "file_id": 4623573,
+      "filename": "2006_2023_Mean_Background.zip",
+      "bytes": 5707923964,
+      "sha256": "194bbd9c1e2df245df3e6c0d9ffd3aa83d281feb7d7708214613099f624c5c26",
+      "local_path": "sources/odell-ford/dryad-v5/downloads/2006_2023_Mean_Background.zip",
+      "downloaded": false,
+      "reason": "Intentionally not downloaded on a storage-constrained workstation."
+    },
+    {
+      "file_id": 4623577,
+      "filename": "2024_Mean_Background.zip",
+      "bytes": 317436480,
+      "sha256": "fde514284b1014a803611e80fd004182608e47e8dbabc9675355a9e8a6b514b8",
+      "local_path": "sources/odell-ford/dryad-v5/downloads/2024_Mean_Background.zip",
+      "downloaded": false,
+      "reason": "Dryad public file-stream endpoint returned HTTP 403 and the API download endpoint returned HTTP 401 from this environment."
+    }
+  ],
+  "processor": "pipeline.process_odell_extension",
+  "processor_status": "implemented_and_unit_tested_without_claiming_unavailable_outputs",
+  "retry": "Download either checksum-pinned archive through an authorized Dryad session, place it at the recorded local path, and run python -m pipeline.run_all --odell-extension."
+}

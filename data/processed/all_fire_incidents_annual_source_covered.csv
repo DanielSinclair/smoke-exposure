@@ -1,0 +1,106 @@
+geography,year,fire_count,burned_acres,records_with_coordinates,source_id,coverage_status,comparable_to_other_geography
+Canada,1950,1494,1519028,1494,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1951,1875,1262462,1875,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1952,1771,412829,1771,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1953,1347,1463090,1347,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1954,767,23705,767,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1955,1350,297225,1350,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1956,1911,562695,1911,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1957,1351,235312,1351,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1958,3135,4314626,3135,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1959,1632,710739,1632,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1960,2856,1477298,2856,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1961,4219,6864824,4219,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1962,1957,803411,1957,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1963,3047,432129,3047,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1964,1712,2814359,1712,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1965,3177,519833,3177,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1966,2718,1229227,2718,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1967,4421,1455451,4421,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1968,2767,3122029,2767,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1969,3550,3508293,3550,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1970,5540,3587348,5540,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1971,4865,4794543,4865,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1972,4875,1870823,4875,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1973,5154,2560198,5154,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1974,5021,2254026,5021,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1975,6339,2458716,6339,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1976,8286,5395607,8286,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1977,7057,3443420,7057,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1978,5778,692006,5778,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1979,8296,6238248,8296,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1980,7483,11922027,7483,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1981,9242,15529234,9242,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1982,7748,4342252,7748,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1983,7978,4977866,7978,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1984,8484,1882441,8484,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1985,7760,2094304,7760,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1986,6091,2485665,6091,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1987,10465,2514882,10465,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1988,10168,3339798,10168,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1989,12015,18773254,12015,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1990,9974,2355660,9974,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1991,10183,3819430,10183,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,1992,8967,2104801,8967,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,1992,67961,2199923,67880,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,1993,5949,4819311,5949,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,1993,61975,2191587,61960,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,1994,9663,15337108,9663,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,1994,75932,4115582,75919,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,1995,8463,18486662,8463,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,1995,71440,2049553,71430,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,1996,6406,4753424,6406,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,1996,75561,6004833,75550,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,1997,6064,1568211,6064,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,1997,61442,3231569,61424,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,1998,10766,11918704,10765,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,1998,68356,2015942,68329,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,1999,7598,4391824,7598,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,1999,89350,6136947,89341,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,2000,5403,1573184,5402,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,2000,96396,7775689,96383,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,2001,7732,1614824,7732,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,2001,87001,3836399,86433,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,2002,7849,6828690,7849,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,2002,76128,6824144,75551,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,2003,8257,5358466,8257,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,2003,68275,4511189,63712,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,2004,6470,7865820,6470,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,2004,69370,8248571,66797,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,2005,7442,4168405,7442,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,2005,92921,9710849,87405,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,2006,9719,5190900,9719,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,2006,117943,10082825,114625,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,2007,6911,4411942,6911,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,2007,98837,9281711,94180,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,2008,6218,4091314,6218,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,2008,88306,5427427,87520,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,2009,7121,1873854,7121,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,2009,81492,6094980,78985,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,2010,7315,7855983,7315,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,2010,85579,3526451,82844,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,2011,4675,5925196,4675,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,2011,98903,9673820,95811,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,2012,7911,4476892,7896,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,2012,74258,9448555,73535,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,2013,6246,10547495,6217,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,2013,66434,4494424,66341,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,2014,5016,11232558,5016,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,2014,70480,3676997,70436,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,2015,7029,9657805,6995,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,2015,77275,10226169,77243,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,2016,5235,3252376,5226,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,2016,81993,5362282,81949,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,2017,5654,8869660,5652,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,2017,82279,10245663,82232,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,2018,7111,5748553,7064,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,2018,80860,8243602,80819,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,2019,4062,4413833,4062,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,2019,63557,4915668,63513,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,2020,4014,539336,4004,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+United States,2020,73262,10495382,73242,usfs-fpa-fod-1992-2020,deduplicated_source_release,false
+Canada,2021,6710,10079169,6710,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,2022,5658,3894887,5654,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,2023,6837,43506724,6784,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,2024,5844,13280294,5842,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false
+Canada,2025,6198,20822852,6172,nrcan-nfdb-all-fire-points-2026-06-08,agency_year_coverage_varies,false

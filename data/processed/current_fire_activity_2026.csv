@@ -1,0 +1,3 @@
+year,geography,fire_count,burned_area_ha,burned_area_acres,as_of_date,source_timestamp,source_dataset,source_url,status,complete,comparable_to_historical_complete_series
+2026,United States,40357,,3853513,2026-07-18,2026-07-18,NIFC Incident Management Situation Report,https://www.nifc.gov/nicc/incident-information/imsr,year_to_date_preliminary_revisionable,false,false
+2026,Canada,3815,2914550.7,7202012,2026-07-18,2026-07-18,NRCan Canadian Wildland Fire Information Framework,https://api.cwfif.nrcan.gc.ca/reported-fire-stats/ytd/by-response-type?date=2026-07-18,year_to_date_preliminary_revisionable,false,false

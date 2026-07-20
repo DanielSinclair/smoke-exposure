@@ -1,0 +1,62 @@
+{
+  "retrieved_at": "2026-07-18T18:53:00Z",
+  "classification": "Event and interpretation leads only; not controlling quantitative inputs for the comparable annual series.",
+  "records": [
+    {
+      "id": "ben-noll-2026-07-18",
+      "title": "What's with all the smoke the last few years?",
+      "author": "Ben Noll",
+      "published_date": "2026-07-18",
+      "url": "https://x.com/BenNollWeather/status/2078451048486961519",
+      "retrieval_url": "https://publish.twitter.com/oembed?omit_script=true&url=https%3A%2F%2Fx.com%2FBenNollWeather%2Fstatus%2F2078451048486961519",
+      "graphic_snapshot": {
+        "image_url": "https://pbs.twimg.com/media/HNgSoVqbEAAgqDD?format=png&name=large",
+        "mime_type": "image/png",
+        "bytes": 199878,
+        "sha256": "2fda8abdc93ca356a9ce043c8de600a9cc8e05dc06888f6cbcd5a5c554a7ebcc",
+        "inspected_at": "2026-07-18T23:39:00Z",
+        "local_copy_retained": false,
+        "note": "Research snapshot only. The copyrighted Washington Post graphic is referenced by URL and checksum, not republished as a project asset."
+      },
+      "role": "Context lead linking Canadian area burned and warmer fire seasons to the opportunity for smoke transport into the United States.",
+      "underlying_source_status": "The post's chart must be traced to its original Canadian fire and temperature datasets before any values are reused."
+    },
+    {
+      "id": "washington-post-2026-07-18",
+      "title": "Thick wildfire smoke lingers over Mid-Atlantic early Saturday",
+      "author": "The Washington Post weather desk",
+      "published_date": "2026-07-18",
+      "url": "https://www.washingtonpost.com/weather/2026/07/18/thick-wildfire-smoke-lingers-over-mid-atlantic-early-saturday/",
+      "observed_article_facts": {
+        "retrieved_at": "2026-07-18T23:33:00Z",
+        "dc_aqi_4_to_5_am": 175,
+        "consecutive_unhealthy_or_worse_hours": 30,
+        "note": "Event-context figures from the visible article text; not a controlling annual-series input."
+      },
+      "role": "Documented 2026 U.S. smoke episode and lead to the operational smoke and air-quality products cited in the article.",
+      "underlying_source_status": "Article observations are context; NOAA HMS, EPA AirNow/AQS, and Canadian fire products control any reconstructed measurements."
+    },
+    {
+      "id": "robert-rohde-2026-07-18",
+      "title": "Canadian Wildland Fire Information System map of active fires and estimated peak smoke for July 18th",
+      "author": "Robert Rohde",
+      "published_date": "2026-07-18",
+      "url": "https://x.com/RARohde/status/2078548604969447552",
+      "retrieval_url": "https://publish.twitter.com/oembed?omit_script=true&url=https%3A%2F%2Fx.com%2FRARohde%2Fstatus%2F2078548604969447552",
+      "graphic_snapshot": {
+        "image_url": "https://pbs.twimg.com/media/HNh4hhFW4AAK0Vs?format=jpg&name=large",
+        "mime_type": "image/jpeg",
+        "bytes": 450678,
+        "sha256": "c281578dbd811003ea221f53b1418db5228b2ec65b8bc334123849305c9e7545",
+        "inspected_at": "2026-07-18T23:38:00Z",
+        "local_copy_retained": false,
+        "note": "Research snapshot of the official CWFIS derivative map. The image is referenced by URL and checksum, not republished as a project asset."
+      },
+      "role": "Event attribution lead for Ontario and northwestern Canadian fires affecting the United States on July 18, 2026.",
+      "underlying_source": {
+        "title": "Canadian Wildland Fire Information System",
+        "url": "https://cwfis.cfs.nrcan.gc.ca/"
+      }
+    }
+  ]
+}

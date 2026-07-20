@@ -1,0 +1,186 @@
+{
+  "algorithm": "sha256",
+  "generated_at": "2026-07-18T20:00:00Z",
+  "artifacts": [
+    {
+      "path": "data/processed/all_fire_density_tiles_1992_2020.csv",
+      "bytes": 40725,
+      "sha256": "ddac104cfd561baa1163fe9971f8e48e655aaadab4138cb612daeb67ca57de53"
+    },
+    {
+      "path": "data/processed/all_fire_incidents_annual_source_covered.csv",
+      "bytes": 10670,
+      "sha256": "ad35069900ca640ae3c3a207dfcaff1b30a07ae011ca400543b7d0da960c81e2"
+    },
+    {
+      "path": "data/processed/canada_fire_annual.csv",
+      "bytes": 12874,
+      "sha256": "9b0219c0dd01ca73612c19ff01a93890c5313c2f11805d51b87fbfd847afc204"
+    },
+    {
+      "path": "data/processed/current_fire_activity_2026.csv",
+      "bytes": 615,
+      "sha256": "574d661bb33684e978c11ec756563fa3435039dbd00a89e1e41dc4bf11bb8f65"
+    },
+    {
+      "path": "data/processed/dashboard.json",
+      "bytes": 1304679,
+      "sha256": "6bea8cee13de1869fc1adc5ee205f57232ad0172cfa112b4e52e82104fc487ad"
+    },
+    {
+      "path": "data/processed/documented_smoke_episodes_1950_2005.csv",
+      "bytes": 8218,
+      "sha256": "217e2d17e1d5b72f4fd2aa246cb8d8fba4e41c2696e7d75413742cc83e285365"
+    },
+    {
+      "path": "data/processed/fire_incident_catalog_sources.csv",
+      "bytes": 1969,
+      "sha256": "cbdfa3b5028a49af02e3c5ab767d689278941c722dee112a6a23c89b97c49ba4"
+    },
+    {
+      "path": "data/processed/fire_incidents_annual_catalog_1950_2026.csv",
+      "bytes": 27280,
+      "sha256": "0e20e68f2aad7512b7a8b53efa9b7ef56f6e0febb429c06b05a3b3f1d5e3172b"
+    },
+    {
+      "path": "data/processed/fire_incidents_monthly_source_covered.csv",
+      "bytes": 323406,
+      "sha256": "8efd46cf512ad540fe07bfc25a75842b6dc20270d05b0f4d13e7110a0c6e69a6"
+    },
+    {
+      "path": "data/processed/fire_year_context.csv",
+      "bytes": 60738,
+      "sha256": "f2bd3a13dd341cceaf6b2256d47cbab920bb57ed4e15e2dc7a31e79616c4262d"
+    },
+    {
+      "path": "data/processed/historical_smoke_events_1950_2005.csv",
+      "bytes": 7654,
+      "sha256": "3cb9cda672665a9993b73be45382be760d2367f373ed079016586967f90a517f"
+    },
+    {
+      "path": "data/processed/historical_smoke_observations_1950_2005.csv",
+      "bytes": 6268,
+      "sha256": "b21e234334f077347e7f5362b1755b8b36d4f8bda9dfb23f897a5fd1b420e942"
+    },
+    {
+      "path": "data/processed/historical_smoke_search_coverage_1950_2005.csv",
+      "bytes": 156029,
+      "sha256": "db7ccc72dc61493fefc74e750977d3338a8c856eff9c7231976fb1bf23fd47c7"
+    },
+    {
+      "path": "data/processed/historical_smoke_sources.csv",
+      "bytes": 7776,
+      "sha256": "90b77ea6302a74481c9c86b406249a07a84dda7c0899f322cbcb0ed1069846f9"
+    },
+    {
+      "path": "data/processed/large_fire_incidents_annual_source_covered.csv",
+      "bytes": 23301,
+      "sha256": "b64a5396dcdc51c4f314b5b646620b688dd2c9105badfe1b1d1a7e5d5c5f9afe"
+    },
+    {
+      "path": "data/processed/large_fire_incidents_source_covered.csv",
+      "bytes": 11782101,
+      "sha256": "a748acfe26bff43ae38ae927f0506180204d66bba533e8f039bd4abffe2df280"
+    },
+    {
+      "path": "data/processed/mtbs_wildfires_annual.csv",
+      "bytes": 753,
+      "sha256": "558f9014ff188ceb1d0c3e88b2ebf6015cda13f3ffd9ea14adc9de16262461ba"
+    },
+    {
+      "path": "data/processed/noaa_storm_events_wildfire_candidates_1950_2005.csv",
+      "bytes": 381385,
+      "sha256": "028e6ae794598f65bcf247c1bb13d2b7d0262cd3c4d5bd5418540bff12bb7b54"
+    },
+    {
+      "path": "data/processed/operational_smoke_proxy_annual_2024_2026.csv",
+      "bytes": 1948,
+      "sha256": "6d80f743a608ad7378d5d5a96b34c96cd53d28fe6d3bcbe64fa8de2c80de70c0"
+    },
+    {
+      "path": "data/processed/operational_smoke_proxy_daily_2024_2026.csv",
+      "bytes": 113000,
+      "sha256": "d4a6dff18362a2488feccbb4166b892dd77ff7883cc4888e1e7eaf65558f606c"
+    },
+    {
+      "path": "data/processed/operational_smoke_screen_annual_2006_2026.csv",
+      "bytes": 7833,
+      "sha256": "545c64ee441578f63661675065f5fa430ce72a6de572a8343ae29ef99bf02fd6"
+    },
+    {
+      "path": "data/processed/operational_smoke_screen_audit_2006_2026.json",
+      "bytes": 13838,
+      "sha256": "cfb593123906800fc0c891fb33fbfe8697b5f8a4f94a9359e388d71dbb1af723"
+    },
+    {
+      "path": "data/processed/operational_smoke_screen_daily_2006_2026.csv",
+      "bytes": 892522,
+      "sha256": "1006c08acb1a34cbba9652eba8a6fb98f42d0f1c7a4222f8bf0236973a302153"
+    },
+    {
+      "path": "data/processed/operational_smoke_screen_monitor_coverage_2006_2026.csv",
+      "bytes": 2879,
+      "sha256": "f99e72544aafc9689dcaadb5b81b97193e0214edc7f9bd4dd70b8e9070ce6830"
+    },
+    {
+      "path": "data/processed/operational_smoke_screen_same_cutoff_2006_2026.csv",
+      "bytes": 6951,
+      "sha256": "6d9512180ed4ca47b1fc3cc8d033f0fb445bb36a23c676b3fa617ee4e49a358d"
+    },
+    {
+      "path": "data/processed/smoke_annual_2021.csv",
+      "bytes": 109,
+      "sha256": "e3296ba4dc0961b2cfe35ecc884f5224dfdd507e795e0c6454e321bb3d07d0d5"
+    },
+    {
+      "path": "data/processed/smoke_region_context_2006_2023.csv",
+      "bytes": 19265,
+      "sha256": "a800d6f8ed7a7ad8d621ff14cb640a90ecfd9a5172e48c11415c4572da065e6c"
+    },
+    {
+      "path": "data/processed/stanford_aggregation_audit.json",
+      "bytes": 428,
+      "sha256": "604ca3ebbc55bfa9897f2a8bbba0f6a3e604186a6d118ebb2408ace4d41e525e"
+    },
+    {
+      "path": "data/processed/stanford_annual_smoke_2006_2023.csv",
+      "bytes": 941,
+      "sha256": "7c3b1b345ce3aa6ddee75167f3bc80384c1c01972166d32b4afb7af25861e7a6"
+    },
+    {
+      "path": "data/processed/stanford_daily_smoke_2006_2023.csv",
+      "bytes": 181476,
+      "sha256": "02cc099f490c8133c6588440a8796e334c87d52181b17d6e518f93dd9c939010"
+    },
+    {
+      "path": "data/processed/stanford_metric_sensitivity_2006_2023.csv",
+      "bytes": 429,
+      "sha256": "b15253692bff2a935690e94fb5e7439cdfe47e72788d38fc482aa20a723d6e7a"
+    },
+    {
+      "path": "data/processed/validation_report.json",
+      "bytes": 2599,
+      "sha256": "eb9892e7e2b3771c757f9d7fe618de90cda51e5538f80370d3086ff02ed7481c"
+    },
+    {
+      "path": "data/processed/validation_report.md",
+      "bytes": 1137,
+      "sha256": "bdaabeff3ee0f7357ea676706177193c5fa0230fab55a73fb039cb6e088e23bb"
+    },
+    {
+      "path": "data/processed/zcta_2020.csv",
+      "bytes": 1770710,
+      "sha256": "e4fa83de103f8065bb05f172046efff4a499f9e6f11b2d609459d14196d8f917"
+    },
+    {
+      "path": "data/processed/zcta_smoke_daily_national_2021.csv",
+      "bytes": 6920,
+      "sha256": "da6796c9b66195940a98c7d0cc2516dabd440f04d20bcd3c3ff791919ab34f9b"
+    },
+    {
+      "path": "data/processed/zcta_smoke_exposure_2021.csv",
+      "bytes": 2070657,
+      "sha256": "c0af5f21cc8579992b237968daed44afff5fd8c532d01c9b7372701c34347ef0"
+    }
+  ]
+}

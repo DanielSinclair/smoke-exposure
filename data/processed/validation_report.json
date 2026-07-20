@@ -1,0 +1,67 @@
+{
+  "status": "PASS_FOR_2021_DEMO_WITH_LIMITATIONS",
+  "grain": {
+    "population": "2020 Census ZCTA",
+    "smoke": "daily 15 km grid mapped to ZCTA internal point",
+    "fire": "MTBS mapped wildfire occurrence by ignition year"
+  },
+  "checks": {
+    "zcta_rows": 32923,
+    "zcta_unique": true,
+    "zcta_state_complete": true,
+    "conus_smoke_zcta_rows": 32462,
+    "conus_population_covered": 328334009,
+    "conus_dc_population_reference_2020": 329260619,
+    "conus_dc_population_coverage_percent": 99.72,
+    "population_coverage_note": "The ZCTA total omits people not assigned to a joined Census ZCTA; it is 99.72% of the 2020 Census resident population of the contiguous states and DC.",
+    "excluded_geographies": [
+      "Alaska",
+      "Hawaii",
+      "Puerto Rico",
+      "territories",
+      "unassigned"
+    ],
+    "district_of_columbia_included": true,
+    "grid_distance_km": {
+      "mean": 6.188,
+      "p95": 9.712,
+      "p99": 10.686,
+      "max": 54.287,
+      "over_20_km_zctas": 16
+    },
+    "mtbs_year_min": 1984,
+    "mtbs_year_max": 2026,
+    "mtbs_wildfire_records": 16633,
+    "mtbs_wildfire_acres": 179298695
+  },
+  "stanford_2021_overlap": {
+    "broad_smoke_days": {
+      "odell_zcta": 4,
+      "stanford_county": 3,
+      "absolute_difference": 1,
+      "percent_difference_vs_stanford": 33.33
+    },
+    "population_days": {
+      "odell_zcta": 232320924,
+      "stanford_county": 216184000,
+      "absolute_difference": 16136924,
+      "percent_difference_vs_stanford": 7.46
+    },
+    "peak_population_exposed": {
+      "odell_zcta": 36819622,
+      "stanford_county": 29447000,
+      "absolute_difference": 7372622,
+      "percent_difference_vs_stanford": 25.04
+    }
+  },
+  "interpretation": [
+    "The O'Dell ZCTA reconstruction agrees with Stanford on 2021 order of magnitude but is not an exact reproduction.",
+    "Differences are expected: O'Dell uses kriged AQS PM2.5 minus a seasonal HMS-derived median no-smoke background at 15 km; Stanford uses a separate county-level wildfire-PM2.5 model.",
+    "The ZCTA demo assigns each Census internal point to its nearest valid grid center, whereas the Stanford series operates at county grain.",
+    "A small eastern-Maine edge set has long nearest-grid distances; p99 is the more representative national diagnostic."
+  ],
+  "severity": {
+    "medium": "ZCTA DHC and 2020 Gazetteer vintages do not join one-to-one; 32,923 common ZCTAs are retained.",
+    "low": "16 eastern-edge ZCTAs are more than 20 km from a valid grid center; their combined population is small and the condition is explicit."
+  }
+}
